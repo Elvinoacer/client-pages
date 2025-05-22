@@ -1,0 +1,4872 @@
+[
+  {
+    "id": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "name": "Clothing",
+    "slug": "clothing",
+    "description": "Experience the ivory brilliance of our Pants, perfect for unique environments",
+    "priority": 1,
+    "image": "https://loremflickr.com/3655/3765/clothing?lock=8237000660069810",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-03-01T03:46:07.391Z",
+    "updatedAt": "2025-05-22T01:56:48.014Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": false,
+      "trending": true
+    }
+  },
+  {
+    "id": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Savor the crispy essence in our Soap, designed for separate culinary adventures",
+    "priority": 2,
+    "image": "https://loremflickr.com/119/1232/electronics?lock=5095942974411084",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-10-27T06:58:17.877Z",
+    "updatedAt": "2025-05-22T05:36:49.573Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true
+    }
+  },
+  {
+    "id": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "name": "Home & Garden",
+    "slug": "home--garden",
+    "description": "The Sienna Bacon is the latest in a series of blond products from Greenholt Inc",
+    "priority": 3,
+    "image": "https://loremflickr.com/947/3315/home & garden?lock=3309248365338735",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-08-10T09:08:48.756Z",
+    "updatedAt": "2025-05-21T18:57:11.538Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": true,
+      "trending": true
+    }
+  },
+  {
+    "id": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "name": "Beauty",
+    "slug": "beauty",
+    "description": "Pouros Group's most advanced Table technology increases warlike capabilities",
+    "priority": 4,
+    "image": "https://loremflickr.com/3791/3804/beauty?lock=4333235529068499",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-02-22T07:01:24.300Z",
+    "updatedAt": "2025-05-22T02:23:59.793Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": false,
+      "trending": true
+    }
+  },
+  {
+    "id": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "name": "Sports",
+    "slug": "sports",
+    "description": "The cyan Soap combines Paraguay aesthetics with Protactinium-based durability",
+    "priority": 5,
+    "image": "https://loremflickr.com/3388/3148/sports?lock=7865806099470338",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-16T04:05:53.924Z",
+    "updatedAt": "2025-05-21T18:52:49.052Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true
+    }
+  },
+  {
+    "id": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "name": "Toys",
+    "slug": "toys",
+    "description": "Experience the olive brilliance of our Tuna, perfect for fat environments",
+    "priority": 6,
+    "image": "https://loremflickr.com/3016/866/toys?lock=5534959191839294",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-06-20T01:20:25.529Z",
+    "updatedAt": "2025-05-22T13:29:25.460Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false
+    }
+  },
+  {
+    "id": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "name": "Automotive",
+    "slug": "automotive",
+    "description": "Mohr Inc's most advanced Chair technology increases yellow capabilities",
+    "priority": 7,
+    "image": "https://loremflickr.com/874/1569/automotive?lock=144242318737722",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-23T06:43:28.308Z",
+    "updatedAt": "2025-05-22T10:51:48.535Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": true,
+      "trending": false
+    }
+  },
+  {
+    "id": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "name": "Food",
+    "slug": "food",
+    "description": "Ergonomic Car made with Granite for all-day oblong support",
+    "priority": 8,
+    "image": "https://loremflickr.com/3018/2377/food?lock=2561613234165962",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-04T20:23:29.009Z",
+    "updatedAt": "2025-05-22T03:20:44.456Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": true,
+      "trending": false
+    }
+  },
+  {
+    "id": "57df4b4d-a1b7-40b8-8e25-55e627fe0603",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "The Michaela Soap is the latest in a series of intent products from Reichert, Runolfsson and Hagenes",
+    "priority": 10,
+    "image": "https://loremflickr.com/2842/3763/accessories?lock=6982409196705727",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-08-14T11:18:05.317Z",
+    "updatedAt": "2025-05-22T09:02:46.791Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "691a91eb-ba64-491a-8231-f8a619f6b7ca",
+    "name": "Car Care",
+    "slug": "car-care",
+    "description": "The Multi-tiered real-time attitude Sausages offers reliable performance and all design",
+    "priority": 10,
+    "image": "https://loremflickr.com/3409/156/car care?lock=4689033467240967",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-11-11T03:54:04.113Z",
+    "updatedAt": "2025-05-22T12:35:40.501Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "fb1070cf-53af-45da-876b-fd1e586095d7",
+    "name": "Car Interior",
+    "slug": "car-interior",
+    "description": "Featuring Magnesium-enhanced technology, our Hat offers unparalleled some performance",
+    "priority": 10,
+    "image": "https://loremflickr.com/3469/3119/car interior?lock=7630879356919540",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-23T14:17:51.100Z",
+    "updatedAt": "2025-05-21T20:11:29.516Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "90c8a4a3-5f9b-48e6-9b1e-15330356ec1b",
+    "name": "Skincare",
+    "slug": "skincare",
+    "description": "Ergonomic Sausages made with Steel for all-day troubled support",
+    "priority": 11,
+    "image": "https://loremflickr.com/2489/2663/skincare?lock=6702482796725166",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-06-14T17:33:08.841Z",
+    "updatedAt": "2025-05-22T10:19:17.867Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "79853dd8-dd66-4eba-b55e-e895f956b193",
+    "name": "First Aid",
+    "slug": "first-aid",
+    "description": "Professional-grade Cheese perfect for merry training and recreational use",
+    "priority": 11,
+    "image": "https://loremflickr.com/979/3351/first aid?lock=3927688383883857",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2025-02-12T13:34:11.747Z",
+    "updatedAt": "2025-05-22T11:28:34.920Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b3b48ce3-0f3d-4f36-a821-afbff4f2bdcf",
+    "name": "Custom Orders",
+    "slug": "custom-orders",
+    "description": "Featuring Ruthenium-enhanced technology, our Bacon offers unparalleled strange performance",
+    "priority": 11,
+    "image": "https://loremflickr.com/2796/1532/custom orders?lock=7900262805558147",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-08-14T10:26:26.961Z",
+    "updatedAt": "2025-05-22T07:45:29.183Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d3c66bd7-74ba-40e1-a54a-0fab572f58b3",
+    "name": "Drums",
+    "slug": "drums",
+    "description": "Our crunchy-inspired Car brings a taste of luxury to your scientific lifestyle",
+    "priority": 12,
+    "image": "https://loremflickr.com/2862/1780/drums?lock=5594260748213100",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-12-10T03:23:48.899Z",
+    "updatedAt": "2025-05-21T20:33:54.437Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b7f4792c-05ce-4617-a0f1-39b2dae21b3d",
+    "name": "Coins & Stamps",
+    "slug": "coins--stamps",
+    "description": "Featuring Astatine-enhanced technology, our Mouse offers unparalleled blaring performance",
+    "priority": 12,
+    "image": "https://loremflickr.com/1743/3695/coins & stamps?lock=8323703098792716",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2024-09-25T12:21:28.143Z",
+    "updatedAt": "2025-05-22T04:29:15.554Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "699db78f-af5c-425a-81c9-7100470829ec",
+    "name": "Wine & Spirits",
+    "slug": "wine--spirits",
+    "description": "Our fluffy-inspired Chair brings a taste of luxury to your oily lifestyle",
+    "priority": 12,
+    "image": "https://loremflickr.com/3467/3890/wine & spirits?lock=4883387199574679",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-05-29T08:43:36.827Z",
+    "updatedAt": "2025-05-22T11:46:37.091Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ecf793d8-5c8f-4953-ad4f-053f806d1a70",
+    "name": "Hobby Supplies",
+    "slug": "hobby-supplies",
+    "description": "Our moist-inspired Pants brings a taste of luxury to your slight lifestyle",
+    "priority": 12,
+    "image": "https://loremflickr.com/3272/2859/hobby supplies?lock=2166424406030816",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-31T03:59:48.695Z",
+    "updatedAt": "2025-05-21T23:07:45.986Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "748ae9de-726e-4bf5-8b50-c43a062cc1ab",
+    "name": "Kids' Clothing",
+    "slug": "kids-clothing",
+    "description": "Stylish Pizza designed to make you stand out with productive looks",
+    "priority": 13,
+    "image": "https://loremflickr.com/3195/1841/kids' clothing?lock=4882285852058578",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-01-24T12:59:41.019Z",
+    "updatedAt": "2025-05-21T15:20:58.851Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b91ba80f-e619-4a97-9de2-a629a7be235b",
+    "name": "Towels",
+    "slug": "towels",
+    "description": "Jakubowski - Anderson's most advanced Ball technology increases fuzzy capabilities",
+    "priority": 13,
+    "image": "https://loremflickr.com/2903/2211/towels?lock=8610283029035654",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2025-04-15T12:36:38.339Z",
+    "updatedAt": "2025-05-21T20:04:38.809Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a3f65652-821b-41d7-82c7-4bdf3756f13c",
+    "name": "Pet Food",
+    "slug": "pet-food",
+    "description": "Discover the uncommon new Table with an exciting mix of Metal ingredients",
+    "priority": 13,
+    "image": "https://loremflickr.com/3289/1432/pet food?lock=103292823883973",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-09-01T18:04:53.669Z",
+    "updatedAt": "2025-05-21T22:05:05.520Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6e7b303f-27d8-4334-b209-3c50b7cf2882",
+    "name": "Winter Wear",
+    "slug": "winter-wear",
+    "description": "New Towels model with 60 GB RAM, 312 GB storage, and superficial features",
+    "priority": 14,
+    "image": "https://loremflickr.com/698/3745/winter wear?lock=5777970023197765",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2025-02-19T22:27:10.778Z",
+    "updatedAt": "2025-05-22T03:15:10.716Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2538e6b3-3fe2-4892-9c1b-2ab76787ee56",
+    "name": "Puzzles",
+    "slug": "puzzles",
+    "description": "Our gorilla-friendly Tuna ensures hospitable comfort for your pets",
+    "priority": 14,
+    "image": "https://loremflickr.com/440/2889/puzzles?lock=5656251801682610",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-11-24T18:28:01.798Z",
+    "updatedAt": "2025-05-22T10:44:22.705Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "309b573f-dcaa-46e7-85d4-cb5f30fad199",
+    "name": "Action Figures",
+    "slug": "action-figures",
+    "description": "New silver Shoes with ergonomic design for bare comfort",
+    "priority": 14,
+    "image": "https://loremflickr.com/590/1979/action figures?lock=5980457479386281",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-04-01T18:01:41.377Z",
+    "updatedAt": "2025-05-22T08:25:30.379Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a8bf846a-19fa-44b9-b225-c729fe273591",
+    "name": "Dolls",
+    "slug": "dolls",
+    "description": "New orchid Towels with ergonomic design for soulful comfort",
+    "priority": 14,
+    "image": "https://loremflickr.com/2854/3194/dolls?lock=3673647054623103",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-12-23T15:29:09.744Z",
+    "updatedAt": "2025-05-22T03:15:14.182Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a27c17cb-507d-4fff-b0db-b749bf73b406",
+    "name": "Fitness Equipment",
+    "slug": "fitness-equipment",
+    "description": "Discover the linear new Gloves with an exciting mix of Metal ingredients",
+    "priority": 14,
+    "image": "https://loremflickr.com/499/472/fitness equipment?lock=7941972777076130",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-08-11T07:23:45.453Z",
+    "updatedAt": "2025-05-22T01:51:56.838Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c775738f-fa3d-4de0-96a5-34b6f99f9c86",
+    "name": "Power Tools",
+    "slug": "power-tools",
+    "description": "New Cheese model with 46 GB RAM, 387 GB storage, and imaginary features",
+    "priority": 14,
+    "image": "https://loremflickr.com/3404/2909/power tools?lock=6348677309056087",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2025-05-09T06:25:20.340Z",
+    "updatedAt": "2025-05-21T18:52:05.427Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c8e451c0-c5ba-4518-b2a1-7bb3417e66aa",
+    "name": "Outdoor Toys",
+    "slug": "outdoor-toys",
+    "description": "Introducing the Madagascar-inspired Table, blending repentant style with local craftsmanship",
+    "priority": 15,
+    "image": "https://loremflickr.com/1811/3769/outdoor toys?lock=5636538159771434",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2024-09-19T12:28:47.100Z",
+    "updatedAt": "2025-05-21T23:42:28.367Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "ee57ea71-8141-46e8-be55-8a76ff922b45",
+    "name": "Baby Care",
+    "slug": "baby-care",
+    "description": "The Front-line tertiary synergy Car offers reliable performance and teeming design",
+    "priority": 16,
+    "image": "https://loremflickr.com/2194/1595/baby care?lock=6174247510823393",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-03T00:45:30.154Z",
+    "updatedAt": "2025-05-22T05:55:34.061Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "83a3305e-c206-4142-9e4d-fa048e65e759",
+    "name": "Maternity Wear",
+    "slug": "maternity-wear",
+    "description": "Featuring Neptunium-enhanced technology, our Bacon offers unparalleled liquid performance",
+    "priority": 17,
+    "image": "https://loremflickr.com/514/2289/maternity wear?lock=3559149654676939",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2025-04-29T17:46:23.052Z",
+    "updatedAt": "2025-05-22T05:36:57.744Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "3eb68044-5fe5-452d-9f55-db0c433e0268",
+    "name": "Pet Carriers",
+    "slug": "pet-carriers",
+    "description": "Experience the salmon brilliance of our Pants, perfect for thick environments",
+    "priority": 17,
+    "image": "https://loremflickr.com/3033/2546/pet carriers?lock=4303849093061308",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-11-30T15:45:54.246Z",
+    "updatedAt": "2025-05-21T19:25:27.639Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "144b9930-3f61-4fb5-b763-3961086c277e",
+    "name": "Massage Equipment",
+    "slug": "massage-equipment",
+    "description": "The sleek and splendid Shoes comes with magenta LED lighting for smart functionality",
+    "priority": 17,
+    "image": "https://loremflickr.com/746/3314/massage equipment?lock=6472486284517813",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2024-06-12T10:41:38.664Z",
+    "updatedAt": "2025-05-21T16:14:51.609Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "4a9faa73-45ee-43ce-bbdb-37efb979a0f0",
+    "name": "Furniture",
+    "slug": "furniture",
+    "description": "Professional-grade Bike perfect for clueless training and recreational use",
+    "priority": 18,
+    "image": "https://loremflickr.com/1787/2801/furniture?lock=5689013227365685",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-20T20:47:52.787Z",
+    "updatedAt": "2025-05-22T00:32:40.436Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9fdf42d2-888e-4581-a4cc-4babaf8fa3e0",
+    "name": "Templates",
+    "slug": "templates",
+    "description": "Introducing the Japan-inspired Car, blending ignorant style with local craftsmanship",
+    "priority": 18,
+    "image": "https://loremflickr.com/464/348/templates?lock=2819428936726660",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2025-05-10T02:37:08.394Z",
+    "updatedAt": "2025-05-22T10:50:39.464Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ad549a66-a88b-406a-90c3-c46b83c387af",
+    "name": "Insurance",
+    "slug": "insurance",
+    "description": "Discover the butterfly-like agility of our Fish, perfect for exhausted users",
+    "priority": 18,
+    "image": "https://loremflickr.com/263/1989/insurance?lock=1427373244425853",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2024-08-01T04:13:42.990Z",
+    "updatedAt": "2025-05-22T04:17:32.247Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a995610a-e19b-45c1-8068-44807d25ebc2",
+    "name": "Children's Books",
+    "slug": "childrens-books",
+    "description": "The Braulio Tuna is the latest in a series of soupy products from O'Keefe and Sons",
+    "priority": 19,
+    "image": "https://loremflickr.com/939/3953/children's books?lock=226006292648017",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2025-04-08T21:13:15.418Z",
+    "updatedAt": "2025-05-21T15:39:09.371Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c16ba217-3211-40c9-8f0d-7be0a95cca8e",
+    "name": "RC Vehicles",
+    "slug": "rc-vehicles",
+    "description": "New orchid Pants with ergonomic design for homely comfort",
+    "priority": 19,
+    "image": "https://loremflickr.com/461/303/rc vehicles?lock=723156940427847",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2024-10-28T22:49:09.624Z",
+    "updatedAt": "2025-05-22T00:14:57.419Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "3f9295d5-64c3-4d30-8ab0-c66fb6447c20",
+    "name": "Refrigerators",
+    "slug": "refrigerators",
+    "description": "New cyan Table with ergonomic design for different comfort",
+    "priority": 20,
+    "image": "https://loremflickr.com/3520/2942/refrigerators?lock=7245430405109938",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-12-23T03:03:16.603Z",
+    "updatedAt": "2025-05-21T21:41:58.176Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "c1e2d9c6-fad8-4a2f-baca-5be82272d196",
+    "name": "Bedding",
+    "slug": "bedding",
+    "description": "Introducing the Democratic Republic of the Congo-inspired Gloves, blending necessary style with local craftsmanship",
+    "priority": 20,
+    "image": "https://loremflickr.com/1505/189/bedding?lock=7239916651514596",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-09-01T01:55:52.084Z",
+    "updatedAt": "2025-05-22T10:13:21.382Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2b242fc5-d5e3-48bc-a73d-173eb1b74bf1",
+    "name": "Stickers",
+    "slug": "stickers",
+    "description": "Professional-grade Chicken perfect for insecure training and recreational use",
+    "priority": 20,
+    "image": "https://loremflickr.com/3299/2710/stickers?lock=5073887128298063",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-08-26T03:40:55.617Z",
+    "updatedAt": "2025-05-22T09:18:28.481Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "de331582-4fe4-4f85-ae5b-7a93517c8e6a",
+    "name": "Baby Food",
+    "slug": "baby-food",
+    "description": "Our crunchy-inspired Keyboard brings a taste of luxury to your tidy lifestyle",
+    "priority": 20,
+    "image": "https://loremflickr.com/1473/2743/baby food?lock=1616804291568158",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-01-30T04:07:20.519Z",
+    "updatedAt": "2025-05-22T11:00:03.713Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e636e505-2189-41bf-b4cb-13ef36b87f04",
+    "name": "Gardening",
+    "slug": "gardening",
+    "description": "The Public-key immersive productivity Tuna offers reliable performance and profitable design",
+    "priority": 20,
+    "image": "https://loremflickr.com/426/3103/gardening?lock=7247713768817373",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2025-03-28T12:08:39.297Z",
+    "updatedAt": "2025-05-22T01:20:19.114Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e245ac27-2927-4375-a655-40395de68efb",
+    "name": "Wearable Tech",
+    "slug": "wearable-tech",
+    "description": "Innovative Gloves featuring quarterly technology and Bamboo construction",
+    "priority": 22,
+    "image": "https://loremflickr.com/1897/929/wearable tech?lock=7862457416701190",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-24T15:32:04.508Z",
+    "updatedAt": "2025-05-22T01:44:24.042Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "98b630b1-bb0a-43a1-a3f0-8ddaa018f93b",
+    "name": "Drones",
+    "slug": "drones",
+    "description": "New white Gloves with ergonomic design for kosher comfort",
+    "priority": 22,
+    "image": "https://loremflickr.com/3056/3920/drones?lock=3095611188256128",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2025-02-01T21:39:14.253Z",
+    "updatedAt": "2025-05-21T18:50:44.692Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "d24b4121-018c-43bf-af83-4c584eeb8282",
+    "name": "Mobile Phones",
+    "slug": "mobile-phones",
+    "description": "The Sustainable optimal flexibility Car offers reliable performance and irresponsible design",
+    "priority": 23,
+    "image": "https://loremflickr.com/807/1395/mobile phones?lock=4709524054563997",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-05-27T10:34:42.396Z",
+    "updatedAt": "2025-05-22T02:29:54.170Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "7516e67d-c424-499a-95a4-554f7a087d46",
+    "name": "Tablets",
+    "slug": "tablets",
+    "description": "Experience the mint green brilliance of our Mouse, perfect for ruddy environments",
+    "priority": 23,
+    "image": "https://loremflickr.com/2639/2240/tablets?lock=8255557994687364",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-09-26T15:26:27.807Z",
+    "updatedAt": "2025-05-21T19:38:47.140Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "01d3d1ee-a626-4c10-8a93-3002fb864299",
+    "name": "Mobility Aids",
+    "slug": "mobility-aids",
+    "description": "The silver Tuna combines Haiti aesthetics with Europium-based durability",
+    "priority": 23,
+    "image": "https://loremflickr.com/3852/3781/mobility aids?lock=3789681103610582",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-04-14T18:02:56.017Z",
+    "updatedAt": "2025-05-21T19:29:28.246Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ca9ec99a-c332-4df1-bbac-b097e92d13d0",
+    "name": "Clocks",
+    "slug": "clocks",
+    "description": "Innovative Towels featuring different technology and Metal construction",
+    "priority": 24,
+    "image": "https://loremflickr.com/3353/177/clocks?lock=7101319804710517",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-12-23T07:52:07.800Z",
+    "updatedAt": "2025-05-22T10:31:12.021Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "f2b1745b-61cf-4a99-8bc1-1ffa5a3cb8df",
+    "name": "Car Electronics",
+    "slug": "car-electronics",
+    "description": "Discover the shark-like agility of our Computer, perfect for deep users",
+    "priority": 24,
+    "image": "https://loremflickr.com/479/3177/car electronics?lock=2446437876036122",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-04T13:01:29.085Z",
+    "updatedAt": "2025-05-21T15:41:42.496Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "28c642b9-6679-4870-b5cb-6071e1298c66",
+    "name": "Craft Supplies",
+    "slug": "craft-supplies",
+    "description": "Our savory-inspired Hat brings a taste of luxury to your corny lifestyle",
+    "priority": 24,
+    "image": "https://loremflickr.com/3481/3447/craft supplies?lock=4832509988159528",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-04-11T19:26:37.319Z",
+    "updatedAt": "2025-05-22T10:57:41.672Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0f0f6abf-2511-4ecb-9cf2-e7b2a2e5540a",
+    "name": "Snacks",
+    "slug": "snacks",
+    "description": "Discover the trusting new Gloves with an exciting mix of Wooden ingredients",
+    "priority": 25,
+    "image": "https://loremflickr.com/806/514/snacks?lock=3896304182412581",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-03T04:48:11.690Z",
+    "updatedAt": "2025-05-21T16:23:34.469Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "ed968584-b874-4246-8e58-01cea0da3553",
+    "name": "Beverages",
+    "slug": "beverages",
+    "description": "Discover the cow-like agility of our Sausages, perfect for blank users",
+    "priority": 25,
+    "image": "https://loremflickr.com/841/767/beverages?lock=1257226105665382",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2025-01-30T09:04:05.022Z",
+    "updatedAt": "2025-05-22T11:48:28.690Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a33024a9-68cb-4c18-a178-29abdc3c012d",
+    "name": "Audio Equipment",
+    "slug": "audio-equipment",
+    "description": "New Pants model with 72 GB RAM, 749 GB storage, and frizzy features",
+    "priority": 26,
+    "image": "https://loremflickr.com/3513/2307/audio equipment?lock=3280701429355102",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-05-11T02:14:07.430Z",
+    "updatedAt": "2025-05-22T10:46:15.263Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "465f9bb1-41f9-42ab-9de7-2ec568dc13af",
+    "name": "Biotech",
+    "slug": "biotech",
+    "description": "New Sausages model with 49 GB RAM, 645 GB storage, and productive features",
+    "priority": 26,
+    "image": "https://loremflickr.com/31/3113/biotech?lock=5479155464343411",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-08-26T16:33:11.421Z",
+    "updatedAt": "2025-05-22T05:01:55.476Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "4391de29-c5e3-46fc-ae26-65cdf6e15896",
+    "name": "Yoga Mats",
+    "slug": "yoga-mats",
+    "description": "The Extended content-based encoding Salad offers reliable performance and similar design",
+    "priority": 27,
+    "image": "https://loremflickr.com/1698/3347/yoga mats?lock=1717891436129110",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-05-06T02:36:00.660Z",
+    "updatedAt": "2025-05-21T18:36:25.777Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b8fe3983-7747-4e36-986d-2a7968dd1b0f",
+    "name": "Workwear",
+    "slug": "workwear",
+    "description": "Our savory-inspired Soap brings a taste of luxury to your firm lifestyle",
+    "priority": 28,
+    "image": "https://loremflickr.com/2032/2912/workwear?lock=3566431042867344",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2025-03-06T21:28:10.334Z",
+    "updatedAt": "2025-05-21T15:46:06.654Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e776f9bf-8c60-4979-b0af-4c580ebaf6b8",
+    "name": "Winter Sports",
+    "slug": "winter-sports",
+    "description": "New Car model with 50 GB RAM, 175 GB storage, and querulous features",
+    "priority": 28,
+    "image": "https://loremflickr.com/1506/3193/winter sports?lock=9003116175562040",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-07-19T20:29:17.096Z",
+    "updatedAt": "2025-05-22T05:30:08.516Z",
+    "metadata": {
+      "seasonal": true,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fbeadce2-ea24-49c0-b22b-103b912be296",
+    "name": "Motorcycle Accessories",
+    "slug": "motorcycle-accessories",
+    "description": "Ergonomic Shirt made with Bamboo for all-day untrue support",
+    "priority": 28,
+    "image": "https://loremflickr.com/592/2774/motorcycle accessories?lock=3410248286489839",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-06-28T20:39:06.350Z",
+    "updatedAt": "2025-05-22T00:16:46.960Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c435f408-b262-48f0-8cc7-66a8164e7701",
+    "name": "Fans & Coolers",
+    "slug": "fans--coolers",
+    "description": "The Angelita Shoes is the latest in a series of worse products from Quigley, Crona and Jacobson",
+    "priority": 29,
+    "image": "https://loremflickr.com/405/3288/fans & coolers?lock=1945036267185406",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2025-03-30T15:05:33.746Z",
+    "updatedAt": "2025-05-22T12:49:30.983Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "493e2e5c-e6dd-45c4-b160-4cd8db5175cd",
+    "name": "Camping Gear",
+    "slug": "camping-gear",
+    "description": "Introducing the India-inspired Tuna, blending entire style with local craftsmanship",
+    "priority": 29,
+    "image": "https://loremflickr.com/1799/1736/camping gear?lock=3809209672918169",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-11-01T00:47:30.731Z",
+    "updatedAt": "2025-05-22T04:21:50.538Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "132fba22-b20d-4e1b-9eba-aabec1576d8a",
+    "name": "Collectibles",
+    "slug": "collectibles",
+    "description": "Ergonomic Mouse made with Ceramic for all-day corny support",
+    "priority": 29,
+    "image": "https://loremflickr.com/3725/3072/collectibles?lock=7500083390065461",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-12-08T15:45:24.165Z",
+    "updatedAt": "2025-05-22T02:26:25.837Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0b2d2984-be3f-4276-846e-cbcaf8aecc55",
+    "name": "Wall Art",
+    "slug": "wall-art",
+    "description": "Introducing the Cape Verde-inspired Table, blending squiggly style with local craftsmanship",
+    "priority": 30,
+    "image": "https://loremflickr.com/2648/2825/wall art?lock=7320118347861619",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-10-11T23:12:25.283Z",
+    "updatedAt": "2025-05-21T23:35:03.761Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c617d797-4951-44a1-9f5d-5d135e8b1122",
+    "name": "Audiobooks",
+    "slug": "audiobooks",
+    "description": "Stylish Keyboard designed to make you stand out with shadowy looks",
+    "priority": 30,
+    "image": "https://loremflickr.com/618/2548/audiobooks?lock=6446946816306029",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-09-06T22:37:21.746Z",
+    "updatedAt": "2025-05-21T18:03:09.617Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "529e390b-5917-45dd-97ca-a9cf3d10345d",
+    "name": "Baby Safety",
+    "slug": "baby-safety",
+    "description": "Discover the mixed new Gloves with an exciting mix of Cotton ingredients",
+    "priority": 30,
+    "image": "https://loremflickr.com/3633/2632/baby safety?lock=521148987517930",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-07-20T17:41:30.149Z",
+    "updatedAt": "2025-05-21T21:25:11.878Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "02a9e03b-ad29-4183-87b7-9f63cd1778f4",
+    "name": "Security Systems",
+    "slug": "security-systems",
+    "description": "Our moist-inspired Mouse brings a taste of luxury to your blaring lifestyle",
+    "priority": 30,
+    "image": "https://loremflickr.com/3133/3830/security systems?lock=3404570854001393",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-06-15T03:37:23.733Z",
+    "updatedAt": "2025-05-22T05:41:12.995Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a111fc38-056b-4a0e-a80e-23414c73926e",
+    "name": "Pens & Pencils",
+    "slug": "pens--pencils",
+    "description": "New Towels model with 46 GB RAM, 949 GB storage, and talkative features",
+    "priority": 31,
+    "image": "https://loremflickr.com/2606/2217/pens & pencils?lock=5052805604203563",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-10-18T17:53:05.647Z",
+    "updatedAt": "2025-05-22T02:46:05.509Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0baa74bc-de11-4ab4-9acf-9843d41c2981",
+    "name": "Subscription Services",
+    "slug": "subscription-services",
+    "description": "Savor the savory essence in our Table, designed for radiant culinary adventures",
+    "priority": 31,
+    "image": "https://loremflickr.com/1379/2150/subscription services?lock=6765016738070775",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-08-26T12:00:39.857Z",
+    "updatedAt": "2025-05-21T17:26:10.061Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "74ccc2a5-62f7-41b9-81d6-11d5fdf81792",
+    "name": "Haircare",
+    "slug": "haircare",
+    "description": "Gleichner, Gleichner and Hills's most advanced Shirt technology increases pointless capabilities",
+    "priority": 32,
+    "image": "https://loremflickr.com/657/1481/haircare?lock=385925786139002",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-07-07T00:05:45.998Z",
+    "updatedAt": "2025-05-22T00:36:49.720Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "797191fd-d70b-4a08-9690-73bcfc3d7371",
+    "name": "Curtains",
+    "slug": "curtains",
+    "description": "The sleek and fuzzy Bacon comes with cyan LED lighting for smart functionality",
+    "priority": 32,
+    "image": "https://loremflickr.com/3793/2403/curtains?lock=5845048326655803",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-10-07T17:04:39.027Z",
+    "updatedAt": "2025-05-21T16:48:19.965Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0ec494d3-4dc0-48c4-96e5-a54539ecdf02",
+    "name": "Real Estate",
+    "slug": "real-estate",
+    "description": "The Exclusive transitional protocol Shirt offers reliable performance and oily design",
+    "priority": 32,
+    "image": "https://loremflickr.com/3401/2724/real estate?lock=1040858342131068",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-11-13T13:25:54.445Z",
+    "updatedAt": "2025-05-21T18:40:28.792Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0bc149dc-f55a-4a02-bac1-0b4f7711a772",
+    "name": "Astronomy",
+    "slug": "astronomy",
+    "description": "New Table model with 3 GB RAM, 842 GB storage, and insecure features",
+    "priority": 32,
+    "image": "https://loremflickr.com/3594/599/astronomy?lock=4064757796284845",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-02-27T00:04:36.004Z",
+    "updatedAt": "2025-05-22T09:57:27.975Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "f6e5250f-d916-4e5d-852b-914973f23c72",
+    "name": "3D Printing",
+    "slug": "3d-printing",
+    "description": "Ergonomic Soap made with Cotton for all-day round support",
+    "priority": 32,
+    "image": "https://loremflickr.com/1786/495/3d printing?lock=6170457739472612",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2025-02-19T09:51:18.012Z",
+    "updatedAt": "2025-05-22T11:11:12.625Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "32c844c7-5b0d-47b6-8d2a-dd0475e717c2",
+    "name": "Headphones",
+    "slug": "headphones",
+    "description": "Practical Keyboard designed with Ceramic for unfortunate performance",
+    "priority": 34,
+    "image": "https://loremflickr.com/1610/3727/headphones?lock=3184868975549677",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-12-13T12:27:47.549Z",
+    "updatedAt": "2025-05-22T13:51:07.404Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "58c20230-f932-43a1-ac1a-211c36b550d5",
+    "name": "Irons",
+    "slug": "irons",
+    "description": "The Proactive actuating intranet Keyboard offers reliable performance and respectful design",
+    "priority": 34,
+    "image": "https://loremflickr.com/2657/3563/irons?lock=6340200540328834",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2024-07-30T17:05:59.175Z",
+    "updatedAt": "2025-05-22T03:51:28.454Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "613f0e8f-892f-4e4b-9b25-41e24b8fdd44",
+    "name": "Office Furniture",
+    "slug": "office-furniture",
+    "description": "Introducing the Saint Helena-inspired Towels, blending forceful style with local craftsmanship",
+    "priority": 34,
+    "image": "https://loremflickr.com/2852/730/office furniture?lock=6542660521389293",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-10-17T18:37:15.393Z",
+    "updatedAt": "2025-05-21T14:49:50.505Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "df95e374-aaab-4380-b08c-e4f5b5e456cf",
+    "name": "Sports Equipment",
+    "slug": "sports-equipment",
+    "description": "Discover the aggressive new Fish with an exciting mix of Aluminum ingredients",
+    "priority": 34,
+    "image": "https://loremflickr.com/19/300/sports equipment?lock=4059062057860646",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-09-01T18:41:47.337Z",
+    "updatedAt": "2025-05-22T05:36:08.463Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "44e12ecc-9dbc-42f1-a40a-54a1234de9eb",
+    "name": "Hardware",
+    "slug": "hardware",
+    "description": "Introducing the Jamaica-inspired Sausages, blending swift style with local craftsmanship",
+    "priority": 34,
+    "image": "https://loremflickr.com/2575/2562/hardware?lock=8522436980198810",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-04-23T11:20:32.642Z",
+    "updatedAt": "2025-05-21T23:49:52.494Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "4cace2f9-2caa-41ae-95ed-e64ec77ffd5c",
+    "name": "Feng Shui Products",
+    "slug": "feng-shui-products",
+    "description": "Discover the bleak new Salad with an exciting mix of Rubber ingredients",
+    "priority": 34,
+    "image": "https://loremflickr.com/2127/1666/feng shui products?lock=5042669610235750",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-08-02T00:01:17.933Z",
+    "updatedAt": "2025-05-22T14:12:43.339Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ee85ea1c-079b-4820-8824-0822e0bef766",
+    "name": "Non-Fiction",
+    "slug": "non-fiction",
+    "description": "Discover the mammoth new Keyboard with an exciting mix of Cotton ingredients",
+    "priority": 35,
+    "image": "https://loremflickr.com/2869/861/non-fiction?lock=7700947861157237",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-07-22T07:49:18.738Z",
+    "updatedAt": "2025-05-22T10:04:25.196Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d532251e-9287-4577-bd21-2c46090b0450",
+    "name": "Model Kits",
+    "slug": "model-kits",
+    "description": "The gold Bike combines Samoa aesthetics with Lithium-based durability",
+    "priority": 35,
+    "image": "https://loremflickr.com/3601/986/model kits?lock=6963471353216096",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-05-15T10:58:16.173Z",
+    "updatedAt": "2025-05-22T03:27:57.213Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "54f88ee2-933a-4939-bd5e-0fb562000a6c",
+    "name": "Coffee & Tea",
+    "slug": "coffee--tea",
+    "description": "Crona - Hayes's most advanced Chips technology increases mushy capabilities",
+    "priority": 35,
+    "image": "https://loremflickr.com/3629/1528/coffee & tea?lock=4116979283715639",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-07-08T02:05:44.037Z",
+    "updatedAt": "2025-05-21T16:13:24.759Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ed64a439-a063-49c9-be61-263e9299c8c3",
+    "name": "Footwear",
+    "slug": "footwear",
+    "description": "Experience the red brilliance of our Shoes, perfect for fine environments",
+    "priority": 36,
+    "image": "https://loremflickr.com/2489/3537/footwear?lock=2998453866734386",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-10-02T11:27:21.841Z",
+    "updatedAt": "2025-05-22T01:58:32.604Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "aa8ad0e6-0c47-4e45-9d6f-9f4dbf15286b",
+    "name": "Spices & Condiments",
+    "slug": "spices--condiments",
+    "description": "Introducing the Switzerland-inspired Chips, blending bruised style with local craftsmanship",
+    "priority": 36,
+    "image": "https://loremflickr.com/3105/2311/spices & condiments?lock=6662680873863273",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-08-07T04:32:12.696Z",
+    "updatedAt": "2025-05-22T10:50:38.285Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ff7e2b92-1d26-4b88-b6aa-8403c1490324",
+    "name": "Software",
+    "slug": "software",
+    "description": "Discover the average new Tuna with an exciting mix of Rubber ingredients",
+    "priority": 36,
+    "image": "https://loremflickr.com/1162/3564/software?lock=2434703134789693",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": true,
+    "createdAt": "2025-03-26T06:39:13.656Z",
+    "updatedAt": "2025-05-22T04:08:15.881Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "24dd61ae-bf10-435c-bb34-73cae29a9e5d",
+    "name": "Solar Products",
+    "slug": "solar-products",
+    "description": "Our delicious-inspired Chicken brings a taste of luxury to your electric lifestyle",
+    "priority": 36,
+    "image": "https://loremflickr.com/2935/1952/solar products?lock=8992773231570687",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-10-07T13:50:23.003Z",
+    "updatedAt": "2025-05-22T14:28:43.010Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "f2440946-7598-4a8a-8028-722f0751c0f5",
+    "name": "Ethnic Wear",
+    "slug": "ethnic-wear",
+    "description": "Featuring Europium-enhanced technology, our Gloves offers unparalleled jam-packed performance",
+    "priority": 38,
+    "image": "https://loremflickr.com/3322/2619/ethnic wear?lock=664408724782118",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-04-28T11:10:29.716Z",
+    "updatedAt": "2025-05-21T15:03:46.411Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "720b3f97-9023-4337-8f30-04bd36a0692c",
+    "name": "Gaming Consoles",
+    "slug": "gaming-consoles",
+    "description": "Discover the deer-like agility of our Ball, perfect for impolite users",
+    "priority": 38,
+    "image": "https://loremflickr.com/321/3756/gaming consoles?lock=3772212486719118",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-04-14T01:26:20.179Z",
+    "updatedAt": "2025-05-22T00:07:32.328Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "90ff576b-425a-43d4-9fa0-066f510bef49",
+    "name": "Outdoor Furniture",
+    "slug": "outdoor-furniture",
+    "description": "Our cat-friendly Cheese ensures fuzzy comfort for your pets",
+    "priority": 38,
+    "image": "https://loremflickr.com/1045/1581/outdoor furniture?lock=2877776390902479",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-12-17T09:08:05.249Z",
+    "updatedAt": "2025-05-22T03:18:44.483Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2303c676-6fee-4c2d-89c5-084788aa7f6e",
+    "name": "Cutlery",
+    "slug": "cutlery",
+    "description": "Stylish Chair designed to make you stand out with frilly looks",
+    "priority": 38,
+    "image": "https://loremflickr.com/3878/2417/cutlery?lock=1234709238249322",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-11-09T03:49:51.468Z",
+    "updatedAt": "2025-05-22T00:11:23.598Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "365596cf-65ab-4bc9-8117-9b3a05dd73e3",
+    "name": "Dinnerware",
+    "slug": "dinnerware",
+    "description": "Handmade Cheese designed with Gold for unrealistic performance",
+    "priority": 38,
+    "image": "https://loremflickr.com/3679/525/dinnerware?lock=7800467959474240",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-06-20T20:34:26.095Z",
+    "updatedAt": "2025-05-21T18:08:00.155Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "5b927d96-8c8e-4c4f-ba11-b5c8a38b4086",
+    "name": "Stationery",
+    "slug": "stationery",
+    "description": "The Extended asynchronous protocol Hat offers reliable performance and yummy design",
+    "priority": 38,
+    "image": "https://loremflickr.com/1986/846/stationery?lock=859743912068313",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2024-10-21T12:51:27.567Z",
+    "updatedAt": "2025-05-22T05:32:58.936Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "16c96cb6-43f0-4988-a60c-e0666f042fac",
+    "name": "Pet Supplies",
+    "slug": "pet-supplies",
+    "description": "Professional-grade Shirt perfect for dapper training and recreational use",
+    "priority": 38,
+    "image": "https://loremflickr.com/2019/1348/pet supplies?lock=5330014443177851",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2025-02-03T20:35:47.813Z",
+    "updatedAt": "2025-05-22T04:52:33.619Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "dad7d917-f59d-4b80-9c57-03c7b6b734e9",
+    "name": "Guitars",
+    "slug": "guitars",
+    "description": "The Rahsaan Gloves is the latest in a series of simple products from Metz Inc",
+    "priority": 38,
+    "image": "https://loremflickr.com/2627/582/guitars?lock=6574764766921281",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-05-01T01:14:48.654Z",
+    "updatedAt": "2025-05-22T10:04:44.134Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "9b2e49df-07fb-4ae7-b155-7f87e976b0f0",
+    "name": "DJ Gear",
+    "slug": "dj-gear",
+    "description": "Experience the turquoise brilliance of our Soap, perfect for fatherly environments",
+    "priority": 38,
+    "image": "https://loremflickr.com/2124/1612/dj gear?lock=310548749437892",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-09-14T02:47:32.171Z",
+    "updatedAt": "2025-05-22T12:02:09.793Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a83a1844-4851-47ea-9d3f-99c6966ebb03",
+    "name": "Oral Care",
+    "slug": "oral-care",
+    "description": "The Open-architected immersive success Pizza offers reliable performance and colorful design",
+    "priority": 39,
+    "image": "https://loremflickr.com/2981/1242/oral care?lock=4749290939748910",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-10-07T17:51:16.198Z",
+    "updatedAt": "2025-05-22T10:36:30.590Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "62beca04-2410-43c4-aa8c-a3fca60c91f5",
+    "name": "Vacuum Cleaners",
+    "slug": "vacuum-cleaners",
+    "description": "Innovative Salad featuring magnificent technology and Ceramic construction",
+    "priority": 39,
+    "image": "https://loremflickr.com/3629/1741/vacuum cleaners?lock=1060310959137251",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2024-06-01T12:22:14.544Z",
+    "updatedAt": "2025-05-22T07:32:25.224Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "85143044-c3ec-411d-aeb1-662fe190810d",
+    "name": "Glassware",
+    "slug": "glassware",
+    "description": "Introducing the Austria-inspired Hat, blending muddy style with local craftsmanship",
+    "priority": 39,
+    "image": "https://loremflickr.com/1804/9/glassware?lock=3078564828969290",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-06-18T11:05:03.533Z",
+    "updatedAt": "2025-05-22T02:08:03.152Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "26c5da66-54ea-4799-b2f7-25b4928ec26c",
+    "name": "BBQ & Grilling",
+    "slug": "bbq--grilling",
+    "description": "Introducing the Austria-inspired Mouse, blending grubby style with local craftsmanship",
+    "priority": 39,
+    "image": "https://loremflickr.com/3898/1798/bbq & grilling?lock=5770160523661096",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-12-16T20:18:42.964Z",
+    "updatedAt": "2025-05-22T13:06:14.411Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fb443de5-f16d-4467-9d34-e761807f5929",
+    "name": "Renewable Energy",
+    "slug": "renewable-energy",
+    "description": "Ernser - Feest's most advanced Bike technology increases heartfelt capabilities",
+    "priority": 39,
+    "image": "https://loremflickr.com/3878/3643/renewable energy?lock=2439816900877957",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-10-29T21:48:36.342Z",
+    "updatedAt": "2025-05-21T15:07:49.459Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "25e09e59-4a50-43d5-9731-ef7befdab08f",
+    "name": "Cosmetics",
+    "slug": "cosmetics",
+    "description": "Stylish Hat designed to make you stand out with natural looks",
+    "priority": 40,
+    "image": "https://loremflickr.com/2239/3902/cosmetics?lock=4511297848518262",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-02-11T09:25:57.134Z",
+    "updatedAt": "2025-05-21T23:12:01.766Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9e263076-43ab-48b2-9f57-9c464b1057b5",
+    "name": "Pet Grooming",
+    "slug": "pet-grooming",
+    "description": "Savor the zesty essence in our Bike, designed for flickering culinary adventures",
+    "priority": 40,
+    "image": "https://loremflickr.com/3004/2289/pet grooming?lock=1275459026660011",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-06-08T01:51:42.477Z",
+    "updatedAt": "2025-05-22T00:14:19.995Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "0c1cf337-00ee-49f1-aac0-885d0cb99359",
+    "name": "Consulting",
+    "slug": "consulting",
+    "description": "Our sour-inspired Tuna brings a taste of luxury to your warm lifestyle",
+    "priority": 40,
+    "image": "https://loremflickr.com/1941/180/consulting?lock=7213333549015854",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-07-19T08:08:51.651Z",
+    "updatedAt": "2025-05-22T02:05:27.302Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9a712162-1c68-404e-a2c0-d8fe2ac553ea",
+    "name": "Scrapbooking",
+    "slug": "scrapbooking",
+    "description": "Our butterfly-friendly Chicken ensures rotten comfort for your pets",
+    "priority": 40,
+    "image": "https://loremflickr.com/3357/1705/scrapbooking?lock=5478917419118112",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-11-11T00:24:14.583Z",
+    "updatedAt": "2025-05-21T20:51:30.606Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "4c5df444-0194-47a1-87e6-7d59126f102b",
+    "name": "Baby Clothing",
+    "slug": "baby-clothing",
+    "description": "Professional-grade Ball perfect for doting training and recreational use",
+    "priority": 41,
+    "image": "https://loremflickr.com/3378/2948/baby clothing?lock=1904412338805847",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2025-01-21T01:57:18.939Z",
+    "updatedAt": "2025-05-22T07:58:00.030Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "03130311-dc71-4981-b981-652004813c83",
+    "name": "Remote Control Toys",
+    "slug": "remote-control-toys",
+    "description": "Ergonomic Shirt designed with Aluminum for mad performance",
+    "priority": 41,
+    "image": "https://loremflickr.com/152/3094/remote control toys?lock=6110085220069459",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2024-10-05T04:54:44.559Z",
+    "updatedAt": "2025-05-22T03:33:22.406Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "748add95-0abb-425c-8c58-e70ae3676626",
+    "name": "Wedding Supplies",
+    "slug": "wedding-supplies",
+    "description": "New Fish model with 29 GB RAM, 231 GB storage, and soulful features",
+    "priority": 41,
+    "image": "https://loremflickr.com/2364/1888/wedding supplies?lock=3993477896259075",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-22T16:44:17.410Z",
+    "updatedAt": "2025-05-22T06:21:44.464Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "098cd208-9792-4a42-af60-e5b43b605868",
+    "name": "Lighting",
+    "slug": "lighting",
+    "description": "Tasty Pants designed with Wooden for frequent performance",
+    "priority": 42,
+    "image": "https://loremflickr.com/3629/199/lighting?lock=1951439113060497",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-15T06:26:56.354Z",
+    "updatedAt": "2025-05-22T09:46:42.110Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "ba920798-bff1-4804-a38e-5390e203685c",
+    "name": "Vitamins & Supplements",
+    "slug": "vitamins--supplements",
+    "description": "Professional-grade Car perfect for liquid training and recreational use",
+    "priority": 42,
+    "image": "https://loremflickr.com/2939/661/vitamins & supplements?lock=4572916568737246",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-08-21T02:54:22.518Z",
+    "updatedAt": "2025-05-21T17:38:12.730Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "61947462-96ac-4486-8f6b-55ccc97a64e3",
+    "name": "Memberships",
+    "slug": "memberships",
+    "description": "New indigo Tuna with ergonomic design for lively comfort",
+    "priority": 42,
+    "image": "https://loremflickr.com/1942/1446/memberships?lock=5225702617056744",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-16T23:05:25.351Z",
+    "updatedAt": "2025-05-22T09:37:09.671Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d704cf5c-e53b-4bd7-9b88-96d9aaea54ae",
+    "name": "Lab Equipment",
+    "slug": "lab-equipment",
+    "description": "Discover the scared new Sausages with an exciting mix of Gold ingredients",
+    "priority": 42,
+    "image": "https://loremflickr.com/2237/595/lab equipment?lock=2469451857586167",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-10-03T07:43:57.535Z",
+    "updatedAt": "2025-05-22T07:49:10.717Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2a9cf9a2-7ff0-4694-a56b-db90fc39f00c",
+    "name": "Educational Toys",
+    "slug": "educational-toys",
+    "description": "Our sea lion-friendly Cheese ensures livid comfort for your pets",
+    "priority": 43,
+    "image": "https://loremflickr.com/1338/49/educational toys?lock=2483697546910692",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-02-19T10:22:44.079Z",
+    "updatedAt": "2025-05-22T07:38:40.282Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "dad56c16-5055-49c0-9111-6e1f261cf654",
+    "name": "Kitchen Tools",
+    "slug": "kitchen-tools",
+    "description": "The Fredy Chicken is the latest in a series of wrong products from Hermiston - Skiles",
+    "priority": 44,
+    "image": "https://loremflickr.com/1621/1000/kitchen tools?lock=4115988038987013",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-02-16T19:28:02.140Z",
+    "updatedAt": "2025-05-22T09:37:39.618Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "bb199d92-1036-4458-886a-b2fe8a8cc2f4",
+    "name": "School Supplies",
+    "slug": "school-supplies",
+    "description": "Stylish Soap designed to make you stand out with tight looks",
+    "priority": 44,
+    "image": "https://loremflickr.com/272/3232/school supplies?lock=4710582669870054",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2024-07-01T15:14:18.204Z",
+    "updatedAt": "2025-05-21T15:48:39.917Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "22415099-f22f-4d3b-8308-c34a8797af80",
+    "name": "Car Exterior",
+    "slug": "car-exterior",
+    "description": "Experience the lime brilliance of our Chips, perfect for dramatic environments",
+    "priority": 44,
+    "image": "https://loremflickr.com/263/452/car exterior?lock=4380158579423442",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-11-04T00:07:41.914Z",
+    "updatedAt": "2025-05-22T02:50:19.976Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "68e67d08-edc0-4c52-afcf-296f4e5dc4f7",
+    "name": "Event Tickets",
+    "slug": "event-tickets",
+    "description": "Ergonomic Car made with Wooden for all-day vivacious support",
+    "priority": 44,
+    "image": "https://loremflickr.com/2435/2654/event tickets?lock=531982519307924",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-06-09T20:39:31.461Z",
+    "updatedAt": "2025-05-21T20:03:00.290Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "188ef587-f301-4b91-9537-3e0699e60a4d",
+    "name": "Swimwear",
+    "slug": "swimwear",
+    "description": "Oriental Chips designed with Silk for imaginary performance",
+    "priority": 45,
+    "image": "https://loremflickr.com/219/2332/swimwear?lock=6456739690972350",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2024-11-21T16:33:40.273Z",
+    "updatedAt": "2025-05-21T22:58:55.520Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "df6e12de-a51b-4dce-bdce-4ee6af5ff232",
+    "name": "Casual Wear",
+    "slug": "casual-wear",
+    "description": "Discover the expert new Shirt with an exciting mix of Gold ingredients",
+    "priority": 45,
+    "image": "https://loremflickr.com/3821/1598/casual wear?lock=349072503680492",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-06-25T18:58:42.615Z",
+    "updatedAt": "2025-05-21T21:28:15.229Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "690d2ed5-e8e6-42e3-83d2-1b4d40aa7e85",
+    "name": "Building Blocks",
+    "slug": "building-blocks",
+    "description": "Introducing the Bahrain-inspired Mouse, blending victorious style with local craftsmanship",
+    "priority": 45,
+    "image": "https://loremflickr.com/801/2289/building blocks?lock=31334497911118",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2024-12-02T23:47:33.265Z",
+    "updatedAt": "2025-05-22T13:51:53.865Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "160a3699-b32d-4fe4-8764-759406386391",
+    "name": "Memorabilia",
+    "slug": "memorabilia",
+    "description": "Professional-grade Fish perfect for important training and recreational use",
+    "priority": 45,
+    "image": "https://loremflickr.com/2684/297/memorabilia?lock=2989694625266157",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2024-08-16T06:27:46.245Z",
+    "updatedAt": "2025-05-21T15:16:08.356Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "08e0951f-e722-4a8a-9927-3e99c7a34180",
+    "name": "International Cuisine",
+    "slug": "international-cuisine",
+    "description": "Innovative Cheese featuring obvious technology and Bamboo construction",
+    "priority": 45,
+    "image": "https://loremflickr.com/2080/1781/international cuisine?lock=2464430415385915",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-08-17T15:07:25.107Z",
+    "updatedAt": "2025-05-21T21:58:22.572Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "33565492-7650-4d93-bd00-116a5d40b5aa",
+    "name": "Watches",
+    "slug": "watches",
+    "description": "Ergonomic Keyboard made with Granite for all-day quintessential support",
+    "priority": 47,
+    "image": "https://loremflickr.com/2699/64/watches?lock=3365760016566260",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-12-15T16:13:33.323Z",
+    "updatedAt": "2025-05-21T15:20:20.562Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "04674efa-220c-477b-b34b-9167a2cb6d50",
+    "name": "Frozen Foods",
+    "slug": "frozen-foods",
+    "description": "The Adelbert Hat is the latest in a series of homely products from DuBuque Group",
+    "priority": 47,
+    "image": "https://loremflickr.com/1275/658/frozen foods?lock=4694430654916782",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-09-19T16:47:09.999Z",
+    "updatedAt": "2025-05-22T03:34:18.391Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ef680d7b-82b3-42fb-9102-cd36d493e167",
+    "name": "Sexual Wellness",
+    "slug": "sexual-wellness",
+    "description": "The Versatile modular workforce Table offers reliable performance and yellowish design",
+    "priority": 47,
+    "image": "https://loremflickr.com/2972/1450/sexual wellness?lock=616362904100226",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2025-01-01T17:51:55.641Z",
+    "updatedAt": "2025-05-22T13:00:36.860Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "da37a752-0819-4d5f-9d37-76e1aec45fcb",
+    "name": "Pet Toys",
+    "slug": "pet-toys",
+    "description": "Savor the juicy essence in our Computer, designed for shiny culinary adventures",
+    "priority": 47,
+    "image": "https://loremflickr.com/1334/3317/pet toys?lock=5157522896915091",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-09-26T05:47:01.305Z",
+    "updatedAt": "2025-05-21T14:56:37.743Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "7d390e50-5ee5-478f-8a92-14efdf8c003a",
+    "name": "Cruises",
+    "slug": "cruises",
+    "description": "New Ball model with 6 GB RAM, 671 GB storage, and cheerful features",
+    "priority": 47,
+    "image": "https://loremflickr.com/3730/2651/cruises?lock=8164399084635404",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2025-01-01T10:36:59.131Z",
+    "updatedAt": "2025-05-22T11:49:06.446Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "4703482e-918a-4ce4-a6b4-4429f907be03",
+    "name": "Canned Goods",
+    "slug": "canned-goods",
+    "description": "Experience the cyan brilliance of our Car, perfect for foolish environments",
+    "priority": 48,
+    "image": "https://loremflickr.com/3654/2295/canned goods?lock=8322794255585174",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-11-11T00:28:42.851Z",
+    "updatedAt": "2025-05-21T17:08:05.353Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0d616c9d-93b1-4297-a78b-7a3375e24e31",
+    "name": "Rentals",
+    "slug": "rentals",
+    "description": "Stylish Bacon designed to make you stand out with blind looks",
+    "priority": 48,
+    "image": "https://loremflickr.com/1294/290/rentals?lock=562173022727298",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": true,
+    "createdAt": "2025-03-26T20:04:54.240Z",
+    "updatedAt": "2025-05-21T19:28:07.364Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2064a0a9-9544-4380-8b5a-d36a473a3518",
+    "name": "Sewing & Knitting",
+    "slug": "sewing--knitting",
+    "description": "The gold Salad combines Bermuda aesthetics with Neptunium-based durability",
+    "priority": 48,
+    "image": "https://loremflickr.com/2733/74/sewing & knitting?lock=2904965646569151",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-08-04T20:25:26.109Z",
+    "updatedAt": "2025-05-21T14:56:17.831Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "3d27f9ad-ed9a-4c83-be74-2fdf1f471872",
+    "name": "VR & AR Devices",
+    "slug": "vr--ar-devices",
+    "description": "The Phased scalable hub Bike offers reliable performance and extroverted design",
+    "priority": 48,
+    "image": "https://loremflickr.com/989/2825/vr & ar devices?lock=4959632307185409",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2024-10-09T14:39:38.364Z",
+    "updatedAt": "2025-05-21T16:36:45.577Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "ce3dcee6-c492-475f-a002-dc95417abc85",
+    "name": "Herbal Products",
+    "slug": "herbal-products",
+    "description": "Stylish Soap designed to make you stand out with esteemed looks",
+    "priority": 48,
+    "image": "https://loremflickr.com/2199/2948/herbal products?lock=5911643233886727",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-12-30T03:44:40.904Z",
+    "updatedAt": "2025-05-21T18:59:02.298Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9720af10-81c2-4f92-aecc-afd71fc6a959",
+    "name": "Uniforms",
+    "slug": "uniforms",
+    "description": "Our crispy-inspired Pizza brings a taste of luxury to your front lifestyle",
+    "priority": 49,
+    "image": "https://loremflickr.com/2766/2869/uniforms?lock=2573424462535695",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2025-05-17T10:52:49.666Z",
+    "updatedAt": "2025-05-22T10:46:59.155Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a9c82281-c153-48d4-8ad3-f9879f25d148",
+    "name": "Flowers & Plants",
+    "slug": "flowers--plants",
+    "description": "New Bacon model with 93 GB RAM, 897 GB storage, and short-term features",
+    "priority": 50,
+    "image": "https://loremflickr.com/2618/3360/flowers & plants?lock=6420546813068003",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-11-10T08:04:04.509Z",
+    "updatedAt": "2025-05-22T09:39:26.730Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "663b4808-cff2-431d-8d2f-59cc026569e4",
+    "name": "Health & Wellness",
+    "slug": "health--wellness",
+    "description": "Handcrafted Ball designed with Silk for grim performance",
+    "priority": 50,
+    "image": "https://loremflickr.com/893/2867/health & wellness?lock=1101093294871941",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-12-08T15:23:11.205Z",
+    "updatedAt": "2025-05-22T11:11:39.445Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9da2cc63-ed5d-4850-aba7-9a39628ff5dd",
+    "name": "Electricals",
+    "slug": "electricals",
+    "description": "New yellow Mouse with ergonomic design for witty comfort",
+    "priority": 50,
+    "image": "https://loremflickr.com/2978/247/electricals?lock=3296003710532391",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-02-08T07:21:35.074Z",
+    "updatedAt": "2025-05-21T18:11:34.497Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "278a615c-dc21-4327-8774-61ee4cf038ff",
+    "name": "Wholesale",
+    "slug": "wholesale",
+    "description": "Featuring Tantalum-enhanced technology, our Salad offers unparalleled huge performance",
+    "priority": 50,
+    "image": "https://loremflickr.com/618/1984/wholesale?lock=4739768066359874",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-07-23T18:22:42.783Z",
+    "updatedAt": "2025-05-22T13:26:53.250Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1d0b138b-b787-43d4-a8ce-32ce30e9dc53",
+    "name": "Medical Devices",
+    "slug": "medical-devices",
+    "description": "New fuchsia Bacon with ergonomic design for miserable comfort",
+    "priority": 50,
+    "image": "https://loremflickr.com/2820/177/medical devices?lock=3563249955793339",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2025-04-30T21:55:51.847Z",
+    "updatedAt": "2025-05-21T20:46:48.586Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c30b0fe1-d174-47c5-851d-a67c70591965",
+    "name": "Laptops",
+    "slug": "laptops",
+    "description": "Introducing the Gibraltar-inspired Chips, blending recent style with local craftsmanship",
+    "priority": 51,
+    "image": "https://loremflickr.com/2805/542/laptops?lock=4338332476467690",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-09-05T11:53:19.561Z",
+    "updatedAt": "2025-05-22T05:29:24.290Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fc955220-c004-4d75-a8db-788e80ecd217",
+    "name": "Plumbing",
+    "slug": "plumbing",
+    "description": "The Kathlyn Bacon is the latest in a series of staid products from Moore Group",
+    "priority": 52,
+    "image": "https://loremflickr.com/163/286/plumbing?lock=6542427786841850",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-06-24T08:33:45.156Z",
+    "updatedAt": "2025-05-22T02:27:42.379Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "77ebca6e-496a-4443-844d-309121630b4b",
+    "name": "Financial Services",
+    "slug": "financial-services",
+    "description": "Featuring Dysprosium-enhanced technology, our Computer offers unparalleled downright performance",
+    "priority": 52,
+    "image": "https://loremflickr.com/1371/2953/financial services?lock=1723476266930474",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2024-05-28T20:43:11.937Z",
+    "updatedAt": "2025-05-22T07:38:13.853Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "dc5b0e13-378b-4de4-95ff-59280b4755c2",
+    "name": "Dining Tables",
+    "slug": "dining-tables",
+    "description": "New Table model with 18 GB RAM, 37 GB storage, and normal features",
+    "priority": 53,
+    "image": "https://loremflickr.com/458/594/dining tables?lock=5567427159993942",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2025-02-11T23:16:43.417Z",
+    "updatedAt": "2025-05-21T18:54:07.229Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b89271ff-3f02-4d8b-888b-f510c403acc3",
+    "name": "Pet Food",
+    "slug": "pet-food",
+    "description": "Our tender-inspired Bacon brings a taste of luxury to your cuddly lifestyle",
+    "priority": 53,
+    "image": "https://loremflickr.com/993/298/pet food?lock=7054534077581668",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2024-10-12T10:27:10.508Z",
+    "updatedAt": "2025-05-22T04:03:13.483Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "5527d772-3207-4b03-a162-815e3f7eb7b5",
+    "name": "Building Materials",
+    "slug": "building-materials",
+    "description": "Licensed Sausages designed with Plastic for smooth performance",
+    "priority": 53,
+    "image": "https://loremflickr.com/1857/2012/building materials?lock=5666167125747280",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-09-20T00:00:09.427Z",
+    "updatedAt": "2025-05-21T21:04:40.616Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d2c31ba1-fd31-479d-9610-f8ee04c0e30b",
+    "name": "Alternative Medicine",
+    "slug": "alternative-medicine",
+    "description": "New gold Ball with ergonomic design for wee comfort",
+    "priority": 53,
+    "image": "https://loremflickr.com/141/1032/alternative medicine?lock=194895398689042",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2024-12-27T17:54:33.061Z",
+    "updatedAt": "2025-05-22T09:33:25.643Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "f71c99f8-bb2e-47e5-90ab-ff50fe622df6",
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "description": "The Josiah Shoes is the latest in a series of genuine products from O'Reilly, Zieme and Murray",
+    "priority": 54,
+    "image": "https://loremflickr.com/2657/651/home decor?lock=1192504830824876",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-09-06T05:05:56.237Z",
+    "updatedAt": "2025-05-21T16:16:21.430Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "62dfaf24-c1c1-4ae4-824f-6350cc912fb5",
+    "name": "Medical Supplies",
+    "slug": "medical-supplies",
+    "description": "Innovative Soap featuring aged technology and Rubber construction",
+    "priority": 54,
+    "image": "https://loremflickr.com/2483/805/medical supplies?lock=2374304224452577",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-22T06:58:07.098Z",
+    "updatedAt": "2025-05-21T20:37:12.726Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1d49f35c-5295-4c0d-b4fc-ff9af22053de",
+    "name": "Baby Toys",
+    "slug": "baby-toys",
+    "description": "Innovative Bacon featuring husky technology and Concrete construction",
+    "priority": 54,
+    "image": "https://loremflickr.com/3644/2377/baby toys?lock=1264353625487377",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2025-03-21T12:54:05.585Z",
+    "updatedAt": "2025-05-22T00:33:02.735Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2da3088e-f5b4-4f8c-9937-9ebc41b2ed63",
+    "name": "Party Supplies",
+    "slug": "party-supplies",
+    "description": "Innovative Computer featuring fuzzy technology and Cotton construction",
+    "priority": 54,
+    "image": "https://loremflickr.com/268/503/party supplies?lock=4465040975168321",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-03-24T02:19:08.017Z",
+    "updatedAt": "2025-05-21T17:51:24.192Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0f5729f3-c976-4183-a2e6-a18c558e923c",
+    "name": "Meditation Tools",
+    "slug": "meditation-tools",
+    "description": "Our tender-inspired Pants brings a taste of luxury to your impish lifestyle",
+    "priority": 54,
+    "image": "https://loremflickr.com/3636/3607/meditation tools?lock=972502299105635",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-11-17T03:37:13.702Z",
+    "updatedAt": "2025-05-22T00:11:02.117Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "484ca16e-b7ef-4226-8696-89a1f290d4b0",
+    "name": "Plants & Seeds",
+    "slug": "plants--seeds",
+    "description": "New Sausages model with 26 GB RAM, 145 GB storage, and dual features",
+    "priority": 55,
+    "image": "https://loremflickr.com/2849/1155/plants & seeds?lock=1446856439884272",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-08-06T06:45:48.485Z",
+    "updatedAt": "2025-05-21T19:51:21.995Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "dbd62cba-7181-4079-924d-d799b010ae41",
+    "name": "Robotics",
+    "slug": "robotics",
+    "description": "New Chips model with 23 GB RAM, 247 GB storage, and slushy features",
+    "priority": 55,
+    "image": "https://loremflickr.com/3847/1497/robotics?lock=2358291318785338",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2025-03-09T13:51:53.583Z",
+    "updatedAt": "2025-05-21T18:47:38.353Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "f7a0b231-a6a6-498c-9e52-5ad60297cb5d",
+    "name": "Pest Control",
+    "slug": "pest-control",
+    "description": "Featuring Titanium-enhanced technology, our Pants offers unparalleled fuzzy performance",
+    "priority": 56,
+    "image": "https://loremflickr.com/2027/1181/pest control?lock=2276180393693992",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-05-22T23:15:13.204Z",
+    "updatedAt": "2025-05-22T11:17:19.106Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "5fe49e02-05f2-4da2-b322-bfa972aa1d84",
+    "name": "AI Products",
+    "slug": "ai-products",
+    "description": "Experience the turquoise brilliance of our Shoes, perfect for drab environments",
+    "priority": 56,
+    "image": "https://loremflickr.com/3149/2772/ai products?lock=6743475242372786",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-04-03T06:39:47.215Z",
+    "updatedAt": "2025-05-22T12:14:52.053Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1f4456eb-f547-46ab-9632-4318f0bc7d9a",
+    "name": "Mixer Grinders",
+    "slug": "mixer-grinders",
+    "description": "The sleek and icy Gloves comes with plum LED lighting for smart functionality",
+    "priority": 57,
+    "image": "https://loremflickr.com/2042/582/mixer grinders?lock=2894732960547298",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-08-15T11:34:19.276Z",
+    "updatedAt": "2025-05-21T18:46:47.369Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fd0f40ee-7058-4e05-996c-cdc53b0a23da",
+    "name": "Hand Tools",
+    "slug": "hand-tools",
+    "description": "Discover the squirrel-like agility of our Shoes, perfect for windy users",
+    "priority": 57,
+    "image": "https://loremflickr.com/224/3371/hand tools?lock=4979634133461666",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-07-27T10:51:51.290Z",
+    "updatedAt": "2025-05-22T10:44:42.454Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9e58504f-6595-4f06-ac7c-8d30e233482d",
+    "name": "Shaving",
+    "slug": "shaving",
+    "description": "Innovative Pizza featuring utter technology and Bronze construction",
+    "priority": 58,
+    "image": "https://loremflickr.com/265/3218/shaving?lock=5604048527254508",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2025-04-12T04:19:50.046Z",
+    "updatedAt": "2025-05-21T16:53:27.238Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6b26e9fc-cc40-4794-b13f-908f829b2ec3",
+    "name": "Beds",
+    "slug": "beds",
+    "description": "Savor the tangy essence in our Ball, designed for boring culinary adventures",
+    "priority": 58,
+    "image": "https://loremflickr.com/2065/92/beds?lock=6548330980238790",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-30T04:57:10.495Z",
+    "updatedAt": "2025-05-22T09:15:12.900Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "b20e5b5d-e180-4add-aebb-d9967f120f24",
+    "name": "Smart Home Devices",
+    "slug": "smart-home-devices",
+    "description": "Professional-grade Table perfect for helpful training and recreational use",
+    "priority": 58,
+    "image": "https://loremflickr.com/226/1586/smart home devices?lock=5839294641844523",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2025-02-27T17:56:53.180Z",
+    "updatedAt": "2025-05-22T00:50:12.098Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "7b13ffde-c828-4949-a26f-fa4638f6f75c",
+    "name": "Occult Supplies",
+    "slug": "occult-supplies",
+    "description": "Our sour-inspired Computer brings a taste of luxury to your hateful lifestyle",
+    "priority": 58,
+    "image": "https://loremflickr.com/660/3969/occult supplies?lock=8078414764232910",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-10-22T05:56:04.146Z",
+    "updatedAt": "2025-05-21T22:38:30.852Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "75131677-ba6b-41d1-a916-9f852337dc4d",
+    "name": "Baby Bath",
+    "slug": "baby-bath",
+    "description": "The orchid Chair combines Bhutan aesthetics with Selenium-based durability",
+    "priority": 59,
+    "image": "https://loremflickr.com/2002/1417/baby bath?lock=184196653376447",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-02-20T04:52:04.074Z",
+    "updatedAt": "2025-05-21T22:23:46.814Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "073dc569-06b9-4691-8956-10a2b33afaa4",
+    "name": "Tarot & Astrology",
+    "slug": "tarot--astrology",
+    "description": "Introducing the Denmark-inspired Bacon, blending white style with local craftsmanship",
+    "priority": 59,
+    "image": "https://loremflickr.com/3997/539/tarot & astrology?lock=6855532719030046",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-09T07:51:52.851Z",
+    "updatedAt": "2025-05-22T02:34:45.071Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "3113dfdc-6a37-4f81-84ed-a4c084061a7e",
+    "name": "Plugins & Extensions",
+    "slug": "plugins--extensions",
+    "description": "Discover the giraffe-like agility of our Pants, perfect for celebrated users",
+    "priority": 60,
+    "image": "https://loremflickr.com/2129/889/plugins & extensions?lock=6308919444839403",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2025-03-31T21:32:29.469Z",
+    "updatedAt": "2025-05-22T11:34:25.155Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a3ba9f01-0d78-46a1-aa63-6e20757b09a6",
+    "name": "Home Automation",
+    "slug": "home-automation",
+    "description": "Stylish Chair designed to make you stand out with superb looks",
+    "priority": 60,
+    "image": "https://loremflickr.com/3826/586/home automation?lock=2594261570853314",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2024-07-07T18:35:11.362Z",
+    "updatedAt": "2025-05-22T01:51:39.721Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "8319137d-2edd-41f8-8fc7-91c9f65fbe80",
+    "name": "Bath & Body",
+    "slug": "bath--body",
+    "description": "Our tender-inspired Pizza brings a taste of luxury to your little lifestyle",
+    "priority": 61,
+    "image": "https://loremflickr.com/1210/3257/bath & body?lock=6156087650070724",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2024-06-20T05:00:41.390Z",
+    "updatedAt": "2025-05-22T11:18:18.071Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "382e0c7f-b507-43db-ad86-1d01999b16d0",
+    "name": "Vintage Items",
+    "slug": "vintage-items",
+    "description": "The sleek and yearly Shirt comes with orange LED lighting for smart functionality",
+    "priority": 61,
+    "image": "https://loremflickr.com/3066/772/vintage items?lock=4216210152281657",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-07-10T20:08:34.932Z",
+    "updatedAt": "2025-05-21T15:52:14.105Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b3a37356-9dec-4eba-8211-387212ea43f8",
+    "name": "Smartwatches",
+    "slug": "smartwatches",
+    "description": "Innovative Chicken featuring useless technology and Aluminum construction",
+    "priority": 62,
+    "image": "https://loremflickr.com/2099/2536/smartwatches?lock=479901893737203",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-08-25T04:55:54.874Z",
+    "updatedAt": "2025-05-21T19:17:18.691Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "fc6c13db-b15f-49e3-88c4-80a7fbf14bca",
+    "name": "Fiction",
+    "slug": "fiction",
+    "description": "Our cow-friendly Gloves ensures mixed comfort for your pets",
+    "priority": 62,
+    "image": "https://loremflickr.com/1569/494/fiction?lock=3847274120563045",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2025-03-22T16:03:49.965Z",
+    "updatedAt": "2025-05-21T19:10:02.056Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ca7f0b64-38f5-4c85-a97e-00838cdbee1d",
+    "name": "Comics",
+    "slug": "comics",
+    "description": "Savor the juicy essence in our Tuna, designed for frequent culinary adventures",
+    "priority": 62,
+    "image": "https://loremflickr.com/2673/3311/comics?lock=6548242594727822",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": true,
+    "createdAt": "2024-11-06T04:28:43.081Z",
+    "updatedAt": "2025-05-21T19:41:12.685Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e5ad3c43-4036-453b-8d76-bc7abe45ea06",
+    "name": "Elderly Care",
+    "slug": "elderly-care",
+    "description": "Ergonomic Chips made with Concrete for all-day grimy support",
+    "priority": 62,
+    "image": "https://loremflickr.com/3117/1463/elderly care?lock=5383692851523832",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2025-03-16T19:01:11.240Z",
+    "updatedAt": "2025-05-21T22:36:30.735Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "44edebc4-25f5-49e2-9d49-aca2fae3ea54",
+    "name": "Musical Instruments",
+    "slug": "musical-instruments",
+    "description": "The pink Car combines Tokelau aesthetics with Iron-based durability",
+    "priority": 62,
+    "image": "https://loremflickr.com/725/1002/musical instruments?lock=1542012607988706",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-12-31T23:33:57.452Z",
+    "updatedAt": "2025-05-22T12:38:30.528Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1826a584-0317-44d8-860b-fe360a1cc5e3",
+    "name": "Online Courses",
+    "slug": "online-courses",
+    "description": "Innovative Pants featuring responsible technology and Bamboo construction",
+    "priority": 62,
+    "image": "https://loremflickr.com/2455/772/online courses?lock=2927611507385166",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2025-01-16T20:09:12.535Z",
+    "updatedAt": "2025-05-22T05:00:53.695Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1a446343-f8f7-41a2-98ce-11f312d17e7b",
+    "name": "Print Services",
+    "slug": "print-services",
+    "description": "Ergonomic Hat made with Plastic for all-day queasy support",
+    "priority": 62,
+    "image": "https://loremflickr.com/427/2059/print services?lock=5605348495637806",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-10-08T04:09:44.922Z",
+    "updatedAt": "2025-05-22T09:00:31.947Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1c2b7c49-622c-4f82-9d62-517c6ffea39f",
+    "name": "Business Services",
+    "slug": "business-services",
+    "description": "Professional-grade Chicken perfect for lighthearted training and recreational use",
+    "priority": 62,
+    "image": "https://loremflickr.com/3572/3254/business services?lock=6695621969546121",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2025-04-06T12:31:54.081Z",
+    "updatedAt": "2025-05-21T16:36:58.898Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "8c689d25-7041-4d02-8b2d-9de1c3deee08",
+    "name": "Desk Organizers",
+    "slug": "desk-organizers",
+    "description": "The Organic discrete archive Sausages offers reliable performance and rusty design",
+    "priority": 63,
+    "image": "https://loremflickr.com/1664/832/desk organizers?lock=8078963741532323",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-10-22T04:46:25.417Z",
+    "updatedAt": "2025-05-22T02:49:48.311Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d64bc86b-e74a-4b2d-a4dc-73930b706af8",
+    "name": "Streaming Services",
+    "slug": "streaming-services",
+    "description": "The sleek and oddball Car comes with cyan LED lighting for smart functionality",
+    "priority": 63,
+    "image": "https://loremflickr.com/2939/354/streaming services?lock=1266977545032392",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-01-30T07:45:46.869Z",
+    "updatedAt": "2025-05-21T19:45:27.385Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e794c99a-b086-46b5-ba39-aaf8010afd60",
+    "name": "Sofas",
+    "slug": "sofas",
+    "description": "Experience the silver brilliance of our Shoes, perfect for mediocre environments",
+    "priority": 64,
+    "image": "https://loremflickr.com/1111/2015/sofas?lock=4123583500461362",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-07-04T01:31:59.313Z",
+    "updatedAt": "2025-05-22T02:24:12.490Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1171efd4-2f1d-41d2-ba66-88288a1a3916",
+    "name": "Candles",
+    "slug": "candles",
+    "description": "Experience the salmon brilliance of our Fish, perfect for honored environments",
+    "priority": 64,
+    "image": "https://loremflickr.com/1114/1054/candles?lock=8399205876821064",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-27T05:47:15.420Z",
+    "updatedAt": "2025-05-22T01:23:53.558Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6361f152-8fc0-4e9b-852e-436f46046026",
+    "name": "Educational",
+    "slug": "educational",
+    "description": "New magenta Salad with ergonomic design for practical comfort",
+    "priority": 64,
+    "image": "https://loremflickr.com/3991/1648/educational?lock=8106177281062601",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2024-09-30T17:16:47.759Z",
+    "updatedAt": "2025-05-22T08:12:17.155Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "4001e484-1e40-42fc-8cb7-d650f5e28376",
+    "name": "Hotel Bookings",
+    "slug": "hotel-bookings",
+    "description": "The gold Mouse combines Christmas Island aesthetics with Californium-based durability",
+    "priority": 64,
+    "image": "https://loremflickr.com/2555/3702/hotel bookings?lock=1069476202806741",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-10-25T18:33:52.325Z",
+    "updatedAt": "2025-05-22T07:48:36.389Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a806622d-6f6b-4eeb-a6de-4d9098b04d2a",
+    "name": "Mirrors",
+    "slug": "mirrors",
+    "description": "The green Bike combines Peru aesthetics with Helium-based durability",
+    "priority": 65,
+    "image": "https://loremflickr.com/495/2222/mirrors?lock=2226695576598824",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-11-13T03:58:23.575Z",
+    "updatedAt": "2025-05-22T07:01:39.891Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e245ed19-f415-4736-b855-009ecb807d2a",
+    "name": "Bakery",
+    "slug": "bakery",
+    "description": "New Chips model with 32 GB RAM, 675 GB storage, and impassioned features",
+    "priority": 65,
+    "image": "https://loremflickr.com/585/2396/bakery?lock=1497358985518981",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-03-25T04:04:31.807Z",
+    "updatedAt": "2025-05-22T11:35:12.543Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ff3c8e31-ad4f-47e3-a958-280d19378f87",
+    "name": "Safety Equipment",
+    "slug": "safety-equipment",
+    "description": "Jakubowski - Muller's most advanced Pants technology increases distorted capabilities",
+    "priority": 66,
+    "image": "https://loremflickr.com/2033/2686/safety equipment?lock=485174138875310",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2025-03-04T20:38:51.218Z",
+    "updatedAt": "2025-05-21T21:12:36.558Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "717498e9-9b4c-4116-b9fe-9e02ae5d8ff7",
+    "name": "Religious Items",
+    "slug": "religious-items",
+    "description": "Discover the total new Gloves with an exciting mix of Metal ingredients",
+    "priority": 66,
+    "image": "https://loremflickr.com/289/657/religious items?lock=1149291182628831",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2025-05-11T03:28:45.901Z",
+    "updatedAt": "2025-05-21T18:17:32.375Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d09e6ac4-f179-44dc-bac7-4c5bef20770c",
+    "name": "Jewelry",
+    "slug": "jewelry",
+    "description": "Haag and Sons's most advanced Towels technology increases square capabilities",
+    "priority": 67,
+    "image": "https://loremflickr.com/943/129/jewelry?lock=2279689286445922",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2025-02-25T00:29:56.598Z",
+    "updatedAt": "2025-05-21T22:01:15.041Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "08842b78-8a95-4d4a-89f9-118abd3d6871",
+    "name": "Cookware",
+    "slug": "cookware",
+    "description": "McLaughlin Inc's most advanced Fish technology increases nippy capabilities",
+    "priority": 68,
+    "image": "https://loremflickr.com/3272/901/cookware?lock=1759884983142422",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-10-10T14:54:55.662Z",
+    "updatedAt": "2025-05-22T11:01:07.077Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "673314ce-d57d-485e-9ba4-e5d9d9e7d0f8",
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "description": "The red Computer combines Dominica aesthetics with Copernicium-based durability",
+    "priority": 68,
+    "image": "https://loremflickr.com/763/3171/office supplies?lock=4333681281183273",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-07-31T02:10:36.493Z",
+    "updatedAt": "2025-05-22T06:26:26.536Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "62d6681b-22da-4db7-9385-06844b044532",
+    "name": "Organic Food",
+    "slug": "organic-food",
+    "description": "Our hamster-friendly Computer ensures those comfort for your pets",
+    "priority": 69,
+    "image": "https://loremflickr.com/3964/3757/organic food?lock=3657774331035776",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-03-19T16:03:21.920Z",
+    "updatedAt": "2025-05-22T05:52:23.749Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "16388cff-b595-462a-8c6a-9ba832b8992d",
+    "name": "Kitchenware",
+    "slug": "kitchenware",
+    "description": "New azure Chair with ergonomic design for suburban comfort",
+    "priority": 70,
+    "image": "https://loremflickr.com/912/2516/kitchenware?lock=5091784218327389",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-11-19T08:44:34.096Z",
+    "updatedAt": "2025-05-22T13:11:41.638Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "35280787-07d2-41d2-872e-2b100798ef8e",
+    "name": "Cigars",
+    "slug": "cigars",
+    "description": "Our crocodile-friendly Fish ensures respectful comfort for your pets",
+    "priority": 70,
+    "image": "https://loremflickr.com/3159/198/cigars?lock=3985384227780277",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-10-12T12:02:21.189Z",
+    "updatedAt": "2025-05-21T23:14:47.947Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a6ae3d81-400b-4375-9938-e33e5252dc14",
+    "name": "Speakers",
+    "slug": "speakers",
+    "description": "Savor the sweet essence in our Fish, designed for puny culinary adventures",
+    "priority": 71,
+    "image": "https://loremflickr.com/869/1008/speakers?lock=7646717310839641",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-10-21T12:01:57.597Z",
+    "updatedAt": "2025-05-21T15:46:39.421Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "809c5a6f-5b88-4dae-91c5-695820dad78c",
+    "name": "Home Appliances",
+    "slug": "home-appliances",
+    "description": "The Mylene Table is the latest in a series of neglected products from Breitenberg - Lueilwitz",
+    "priority": 71,
+    "image": "https://loremflickr.com/1427/2524/home appliances?lock=8317347647113581",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-04T04:10:47.171Z",
+    "updatedAt": "2025-05-21T23:49:13.942Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6d979967-d92b-4db4-8482-ec249cf30ef9",
+    "name": "Drones",
+    "slug": "drones",
+    "description": "Discover the uniform new Shirt with an exciting mix of Ceramic ingredients",
+    "priority": 71,
+    "image": "https://loremflickr.com/1594/1944/drones?lock=3407703451634346",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-04-15T09:33:52.885Z",
+    "updatedAt": "2025-05-21T23:33:57.033Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "8b293379-63ff-440b-87c1-7daa9ddb7006",
+    "name": "Rehabilitation",
+    "slug": "rehabilitation",
+    "description": "New turquoise Pizza with ergonomic design for infatuated comfort",
+    "priority": 71,
+    "image": "https://loremflickr.com/3852/2721/rehabilitation?lock=543020594212450",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-10-05T13:22:37.560Z",
+    "updatedAt": "2025-05-22T12:13:12.400Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2f7f4ae8-6754-496f-954e-d5a82682a8bc",
+    "name": "Books",
+    "slug": "books",
+    "description": "Discover the wolf-like agility of our Pants, perfect for astonishing users",
+    "priority": 72,
+    "image": "https://loremflickr.com/1090/1960/books?lock=3976169299443863",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-06-28T09:24:31.197Z",
+    "updatedAt": "2025-05-22T07:39:15.284Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d919f479-44e3-464c-b0fe-3f0cd16390a9",
+    "name": "Toys & Games",
+    "slug": "toys--games",
+    "description": "New Fish model with 36 GB RAM, 889 GB storage, and wobbly features",
+    "priority": 72,
+    "image": "https://loremflickr.com/2617/3479/toys & games?lock=6364339049672870",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2025-04-06T03:58:47.328Z",
+    "updatedAt": "2025-05-22T11:15:06.986Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "a3f53b22-fe2f-4dcf-8af7-bdbedaec674e",
+    "name": "Art",
+    "slug": "art",
+    "description": "The Fundamental bifurcated alliance Gloves offers reliable performance and unwritten design",
+    "priority": 72,
+    "image": "https://loremflickr.com/324/2177/art?lock=7354390267187513",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2024-12-11T12:29:19.665Z",
+    "updatedAt": "2025-05-21T20:32:40.420Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1a78a7cf-be59-4a81-aba3-015381e252fc",
+    "name": "Model Trains",
+    "slug": "model-trains",
+    "description": "New pink Chicken with ergonomic design for incomplete comfort",
+    "priority": 72,
+    "image": "https://loremflickr.com/1814/680/model trains?lock=4163296548728777",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-11-05T21:12:13.213Z",
+    "updatedAt": "2025-05-21T15:46:36.219Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b3935a6e-a3c0-4e9b-90d3-4f225aa17c25",
+    "name": "Pet Beds",
+    "slug": "pet-beds",
+    "description": "The Public-key AI-powered intranet Cheese offers reliable performance and grouchy design",
+    "priority": 73,
+    "image": "https://loremflickr.com/1268/2560/pet beds?lock=4310115362724329",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-09-16T06:17:22.337Z",
+    "updatedAt": "2025-05-22T03:02:54.789Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b79c0d99-5a7b-46e8-bd7e-b5017dbd8488",
+    "name": "Fragrances",
+    "slug": "fragrances",
+    "description": "New Bacon model with 12 GB RAM, 294 GB storage, and boiling features",
+    "priority": 74,
+    "image": "https://loremflickr.com/1335/3537/fragrances?lock=6535903697762867",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-08-17T20:34:40.762Z",
+    "updatedAt": "2025-05-22T13:00:43.729Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6ba42e21-082e-414a-9b43-2fd3a6ba2387",
+    "name": "Car Rentals",
+    "slug": "car-rentals",
+    "description": "Savor the crispy essence in our Car, designed for spiteful culinary adventures",
+    "priority": 74,
+    "image": "https://loremflickr.com/3626/3743/car rentals?lock=1495545063148806",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-04-29T15:29:30.883Z",
+    "updatedAt": "2025-05-22T12:06:33.182Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d9c50b96-447e-405c-8c22-c8083205c3d8",
+    "name": "Rugs & Carpets",
+    "slug": "rugs--carpets",
+    "description": "Ergonomic Keyboard made with Aluminum for all-day sandy support",
+    "priority": 75,
+    "image": "https://loremflickr.com/418/3200/rugs & carpets?lock=2486176565298095",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-06-14T15:17:51.937Z",
+    "updatedAt": "2025-05-21T18:45:26.178Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "43c426ea-7597-4969-b6db-979c71b85f69",
+    "name": "TVs",
+    "slug": "tvs",
+    "description": "Bauch - Reilly's most advanced Salad technology increases accomplished capabilities",
+    "priority": 77,
+    "image": "https://loremflickr.com/3846/2883/tvs?lock=8088213794907382",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2025-03-13T05:45:40.040Z",
+    "updatedAt": "2025-05-22T04:17:30.035Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1189de4a-6d46-4959-9a49-4d448852072e",
+    "name": "Baby Gear",
+    "slug": "baby-gear",
+    "description": "Discover the present new Hat with an exciting mix of Plastic ingredients",
+    "priority": 77,
+    "image": "https://loremflickr.com/3405/2808/baby gear?lock=6801693581698022",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-01-28T17:45:35.034Z",
+    "updatedAt": "2025-05-22T04:56:34.392Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "26afdd8f-c603-436b-bae1-7780e9562a52",
+    "name": "Sportswear",
+    "slug": "sportswear",
+    "description": "Professional-grade Chair perfect for splendid training and recreational use",
+    "priority": 78,
+    "image": "https://loremflickr.com/712/3411/sportswear?lock=1128981710845942",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-11-10T18:15:58.628Z",
+    "updatedAt": "2025-05-22T05:32:34.756Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "bc1f330d-4772-40bd-8063-4ec9dacc1afb",
+    "name": "Antiques",
+    "slug": "antiques",
+    "description": "Our spicy-inspired Chicken brings a taste of luxury to your near lifestyle",
+    "priority": 78,
+    "image": "https://loremflickr.com/3473/3323/antiques?lock=8776325829027015",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-09-30T23:48:17.353Z",
+    "updatedAt": "2025-05-22T07:07:32.360Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "bd4c8d27-9154-42e6-bf2c-5385e7c9d6c0",
+    "name": "Digital Products",
+    "slug": "digital-products",
+    "description": "Featuring Oganesson-enhanced technology, our Chips offers unparalleled vain performance",
+    "priority": 78,
+    "image": "https://loremflickr.com/2836/2892/digital products?lock=5348455192683983",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-12-30T15:15:43.516Z",
+    "updatedAt": "2025-05-22T11:31:44.955Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "15659850-5d22-487d-bb37-c5511f5e2357",
+    "name": "Gift Cards",
+    "slug": "gift-cards",
+    "description": "Modern Tuna designed with Concrete for outrageous performance",
+    "priority": 78,
+    "image": "https://loremflickr.com/1171/3370/gift cards?lock=3476731047342800",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-01-02T03:34:49.542Z",
+    "updatedAt": "2025-05-22T08:20:24.687Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "be833103-3872-4f06-b633-e9cece1257c9",
+    "name": "Beer",
+    "slug": "beer",
+    "description": "Discover the busy new Gloves with an exciting mix of Steel ingredients",
+    "priority": 78,
+    "image": "https://loremflickr.com/1252/3768/beer?lock=8900971715542534",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": true,
+    "createdAt": "2024-10-25T11:49:05.565Z",
+    "updatedAt": "2025-05-21T20:17:46.584Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "dae8dec8-d12d-4153-afdf-6d29d0fd6123",
+    "name": "Nursing & Feeding",
+    "slug": "nursing--feeding",
+    "description": "Bruen, Block and West's most advanced Hat technology increases alienated capabilities",
+    "priority": 79,
+    "image": "https://loremflickr.com/1470/835/nursing & feeding?lock=2055514324895841",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-09-10T08:57:17.931Z",
+    "updatedAt": "2025-05-22T06:59:07.710Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2a4d744f-ef68-41e9-8744-0782021763d8",
+    "name": "Aquarium Supplies",
+    "slug": "aquarium-supplies",
+    "description": "The plum Bacon combines Saint Kitts and Nevis aesthetics with Ytterbium-based durability",
+    "priority": 79,
+    "image": "https://loremflickr.com/3885/1771/aquarium supplies?lock=8683636717657006",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2025-03-22T07:04:39.961Z",
+    "updatedAt": "2025-05-22T05:37:23.153Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "b96002b2-bd9e-4ab3-b321-0f3f28f09405",
+    "name": "Outdoor Decor",
+    "slug": "outdoor-decor",
+    "description": "Professional-grade Tuna perfect for shimmering training and recreational use",
+    "priority": 79,
+    "image": "https://loremflickr.com/934/3757/outdoor decor?lock=1123558545122467",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-06-01T06:41:37.283Z",
+    "updatedAt": "2025-05-22T14:13:03.041Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "3e5f0747-0abb-4d04-a570-5cfe1c1d6ad8",
+    "name": "Bulk Orders",
+    "slug": "bulk-orders",
+    "description": "Stylish Tuna designed to make you stand out with royal looks",
+    "priority": 79,
+    "image": "https://loremflickr.com/121/1620/bulk orders?lock=6823337948093807",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-10-13T11:36:27.330Z",
+    "updatedAt": "2025-05-22T13:36:07.153Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "ea2e2cc3-58f1-46f0-ae0f-7a0851082e08",
+    "name": "Eco-Friendly Products",
+    "slug": "eco-friendly-products",
+    "description": "Discover the apt new Fish with an exciting mix of Concrete ingredients",
+    "priority": 80,
+    "image": "https://loremflickr.com/3795/3809/eco-friendly products?lock=5655079696302416",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-09-29T05:52:58.205Z",
+    "updatedAt": "2025-05-22T11:46:44.419Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "252cb88d-96c3-4203-89a5-d7bbd8412af9",
+    "name": "Storage Containers",
+    "slug": "storage-containers",
+    "description": "The sleek and heartfelt Chips comes with black LED lighting for smart functionality",
+    "priority": 82,
+    "image": "https://loremflickr.com/413/2874/storage containers?lock=4091798221107052",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-30T22:49:47.186Z",
+    "updatedAt": "2025-05-21T23:20:38.120Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "b539f145-24fc-404e-afef-b7ca2b57329b",
+    "name": "Pet Health",
+    "slug": "pet-health",
+    "description": "The Octavia Table is the latest in a series of shallow products from Halvorson Inc",
+    "priority": 82,
+    "image": "https://loremflickr.com/3015/3217/pet health?lock=458936665315609",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-03-02T21:25:40.155Z",
+    "updatedAt": "2025-05-21T15:07:53.065Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0a009daa-b873-4ac0-9201-2146b329895b",
+    "name": "Lawn Care",
+    "slug": "lawn-care",
+    "description": "Handmade Ball designed with Cotton for lawful performance",
+    "priority": 82,
+    "image": "https://loremflickr.com/1530/3154/lawn care?lock=3588483777125778",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2024-07-01T02:27:47.498Z",
+    "updatedAt": "2025-05-21T15:28:43.140Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "f7984a2a-d91b-49a6-87f8-72b7e7c5edb3",
+    "name": "Food & Beverages",
+    "slug": "food--beverages",
+    "description": "Sleek Computer designed with Concrete for basic performance",
+    "priority": 83,
+    "image": "https://loremflickr.com/1322/2473/food & beverages?lock=3585879150050646",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2024-09-26T01:16:27.249Z",
+    "updatedAt": "2025-05-22T05:04:26.573Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "7e4d9ae2-d219-4aaf-8d72-c44c5deb74c2",
+    "name": "Diapers",
+    "slug": "diapers",
+    "description": "Discover the ample new Keyboard with an exciting mix of Metal ingredients",
+    "priority": 83,
+    "image": "https://loremflickr.com/1545/724/diapers?lock=1996806290767931",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-11-04T06:03:50.517Z",
+    "updatedAt": "2025-05-22T04:07:35.676Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "5844ca4e-9370-4c4d-8080-baafa30c5e78",
+    "name": "Freelance Services",
+    "slug": "freelance-services",
+    "description": "Professional-grade Car perfect for oblong training and recreational use",
+    "priority": 83,
+    "image": "https://loremflickr.com/1388/1790/freelance services?lock=2663602045866947",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2024-12-02T00:38:42.587Z",
+    "updatedAt": "2025-05-22T09:48:23.635Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "02f72b37-3846-40e4-b553-47551e4623e3",
+    "name": "Sustainable Goods",
+    "slug": "sustainable-goods",
+    "description": "The sleek and coordinated Salad comes with indigo LED lighting for smart functionality",
+    "priority": 83,
+    "image": "https://loremflickr.com/93/1966/sustainable goods?lock=1268579659210975",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": true,
+    "createdAt": "2024-08-10T07:42:29.338Z",
+    "updatedAt": "2025-05-22T13:34:52.714Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "cad46fb6-366f-4bbc-bd97-81334b7107f1",
+    "name": "Wardrobes",
+    "slug": "wardrobes",
+    "description": "Our fresh-inspired Table brings a taste of luxury to your lucky lifestyle",
+    "priority": 84,
+    "image": "https://loremflickr.com/664/3366/wardrobes?lock=7084277772760230",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-08-31T06:32:49.960Z",
+    "updatedAt": "2025-05-21T17:46:04.062Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fb445082-bdc8-472e-9b7e-8a31b49bccf7",
+    "name": "Tires & Wheels",
+    "slug": "tires--wheels",
+    "description": "Savor the tender essence in our Salad, designed for unlawful culinary adventures",
+    "priority": 84,
+    "image": "https://loremflickr.com/526/1548/tires & wheels?lock=6855115713363262",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-06-16T00:13:48.383Z",
+    "updatedAt": "2025-05-21T16:37:30.978Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "42651f8a-6ea6-419c-962b-8c9629d327eb",
+    "name": "Gardening Tools",
+    "slug": "gardening-tools",
+    "description": "Ergonomic Cheese made with Bronze for all-day infamous support",
+    "priority": 84,
+    "image": "https://loremflickr.com/2563/2034/gardening tools?lock=6715068123658719",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-04-09T10:40:12.426Z",
+    "updatedAt": "2025-05-21T15:14:05.403Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "388a7188-b801-499e-ab73-d8c826aed60d",
+    "name": "Wind Instruments",
+    "slug": "wind-instruments",
+    "description": "Introducing the South Africa-inspired Ball, blending glum style with local craftsmanship",
+    "priority": 84,
+    "image": "https://loremflickr.com/1143/1559/wind instruments?lock=1490864731464030",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-12-22T10:08:58.167Z",
+    "updatedAt": "2025-05-21T20:44:01.825Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6287f6de-6dfe-49f7-8425-dde24ab85527",
+    "name": "Tools & Equipment",
+    "slug": "tools--equipment",
+    "description": "Ergonomic Fish designed with Concrete for empty performance",
+    "priority": 85,
+    "image": "https://loremflickr.com/3709/746/tools & equipment?lock=4769303395980144",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-03-01T21:02:03.096Z",
+    "updatedAt": "2025-05-22T10:16:29.836Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "c0ca261a-f510-499f-bbd1-4c9d7b9e07e4",
+    "name": "String Instruments",
+    "slug": "string-instruments",
+    "description": "New purple Pizza with ergonomic design for blank comfort",
+    "priority": 85,
+    "image": "https://loremflickr.com/422/3853/string instruments?lock=2268325609569407",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-11-14T07:34:44.280Z",
+    "updatedAt": "2025-05-22T11:52:17.168Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "7a97cb0f-2a2f-4a26-94ec-39dafd7dbbc2",
+    "name": "Tour Packages",
+    "slug": "tour-packages",
+    "description": "Stylish Shirt designed to make you stand out with delicious looks",
+    "priority": 85,
+    "image": "https://loremflickr.com/3868/2442/tour packages?lock=7953792940712192",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2025-01-19T03:11:21.948Z",
+    "updatedAt": "2025-05-22T12:58:50.361Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "04745eaf-4a0c-461f-81d9-d711c1074924",
+    "name": "Makeup",
+    "slug": "makeup",
+    "description": "Professional-grade Soap perfect for witty training and recreational use",
+    "priority": 86,
+    "image": "https://loremflickr.com/3429/539/makeup?lock=5340603483698646",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2025-04-07T10:56:08.542Z",
+    "updatedAt": "2025-05-22T07:41:40.864Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "bfabdeb9-8458-467f-96bf-eeb9e59a831c",
+    "name": "Cycling",
+    "slug": "cycling",
+    "description": "New Towels model with 44 GB RAM, 643 GB storage, and steep features",
+    "priority": 86,
+    "image": "https://loremflickr.com/2325/175/cycling?lock=7444912470003828",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-08-13T23:49:06.853Z",
+    "updatedAt": "2025-05-21T20:56:18.744Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1155792b-2055-49ab-85da-d6a776ebef49",
+    "name": "Team Sports",
+    "slug": "team-sports",
+    "description": "New Computer model with 52 GB RAM, 429 GB storage, and worthwhile features",
+    "priority": 86,
+    "image": "https://loremflickr.com/1014/2437/team sports?lock=8411855445069512",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2024-12-29T00:42:43.218Z",
+    "updatedAt": "2025-05-21T22:54:04.110Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "eeed8cf1-6e44-46d8-9c27-3f1c948e048c",
+    "name": "Keyboards",
+    "slug": "keyboards",
+    "description": "The Giovanny Chicken is the latest in a series of pink products from Borer, Wintheiser and Donnelly",
+    "priority": 86,
+    "image": "https://loremflickr.com/2508/231/keyboards?lock=5584376878519538",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-11-14T19:00:46.425Z",
+    "updatedAt": "2025-05-21T21:17:05.502Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a53d5703-9988-4b4d-af87-cc69b6491f9b",
+    "name": "Travel",
+    "slug": "travel",
+    "description": "New Pizza model with 36 GB RAM, 438 GB storage, and snoopy features",
+    "priority": 86,
+    "image": "https://loremflickr.com/1707/824/travel?lock=3883713159025295",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-07-03T04:38:12.653Z",
+    "updatedAt": "2025-05-22T14:10:04.682Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "dd90d7f6-8bff-40cf-aff7-f5d9d6254d7d",
+    "name": "Flight Tickets",
+    "slug": "flight-tickets",
+    "description": "The grey Soap combines Palau aesthetics with Silicon-based durability",
+    "priority": 86,
+    "image": "https://loremflickr.com/2816/3279/flight tickets?lock=3570944846140269",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2025-03-04T16:59:34.191Z",
+    "updatedAt": "2025-05-22T01:00:41.512Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "0d5aef9a-f5ca-4a63-92c9-b6027d160b50",
+    "name": "Advertising",
+    "slug": "advertising",
+    "description": "The Ruben Gloves is the latest in a series of ill-fated products from Morissette, Shanahan and Donnelly",
+    "priority": 86,
+    "image": "https://loremflickr.com/3300/1643/advertising?lock=733954994218724",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-04-26T08:07:41.524Z",
+    "updatedAt": "2025-05-22T00:49:22.702Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d965ca7a-ffe3-4920-b3a7-dfae094ce30b",
+    "name": "Magazines",
+    "slug": "magazines",
+    "description": "Professional-grade Table perfect for prudent training and recreational use",
+    "priority": 87,
+    "image": "https://loremflickr.com/917/6/magazines?lock=6538264748248420",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-06-15T19:00:50.039Z",
+    "updatedAt": "2025-05-21T18:02:02.317Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "7d1cd52f-71a8-47fa-9b92-3e11010339c1",
+    "name": "Specialty Foods",
+    "slug": "specialty-foods",
+    "description": "Wuckert and Sons's most advanced Computer technology increases damp capabilities",
+    "priority": 87,
+    "image": "https://loremflickr.com/2142/2327/specialty foods?lock=4015557130857313",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-07-31T02:40:20.042Z",
+    "updatedAt": "2025-05-21T16:21:13.256Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d2025453-41de-4550-8381-9439cda3fc35",
+    "name": "DIY Kits",
+    "slug": "diy-kits",
+    "description": "Experience the yellow brilliance of our Bacon, perfect for bowed environments",
+    "priority": 87,
+    "image": "https://loremflickr.com/3132/1400/diy kits?lock=275909229144171",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-02-24T18:14:54.481Z",
+    "updatedAt": "2025-05-21T19:58:52.968Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a24a0daf-e4ef-45b5-8d57-8b9b5eb6c3dc",
+    "name": "Trading Cards",
+    "slug": "trading-cards",
+    "description": "Discover the petty new Bacon with an exciting mix of Steel ingredients",
+    "priority": 88,
+    "image": "https://loremflickr.com/825/2898/trading cards?lock=2270999405600716",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": true,
+    "createdAt": "2025-04-01T23:11:09.642Z",
+    "updatedAt": "2025-05-22T06:02:51.603Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "8bf2031b-8518-420c-bb63-9e38d66041c9",
+    "name": "Cameras",
+    "slug": "cameras",
+    "description": "Discover the torn new Mouse with an exciting mix of Rubber ingredients",
+    "priority": 89,
+    "image": "https://loremflickr.com/2198/956/cameras?lock=6232332424696272",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2024-06-17T06:38:59.447Z",
+    "updatedAt": "2025-05-22T08:27:19.669Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "7ba58956-a51f-4ced-83cb-30f1c2b37327",
+    "name": "Air Conditioners",
+    "slug": "air-conditioners",
+    "description": "Our creamy-inspired Chips brings a taste of luxury to your unruly lifestyle",
+    "priority": 89,
+    "image": "https://loremflickr.com/2493/3266/air conditioners?lock=8494123117179887",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2025-04-07T13:01:04.591Z",
+    "updatedAt": "2025-05-22T13:08:09.722Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d2f12b1f-59ad-45dc-807e-873fe8050148",
+    "name": "Bakeware",
+    "slug": "bakeware",
+    "description": "Discover the ostrich-like agility of our Soap, perfect for indelible users",
+    "priority": 89,
+    "image": "https://loremflickr.com/1369/2005/bakeware?lock=63887028899403",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2024-08-18T03:30:40.353Z",
+    "updatedAt": "2025-05-22T00:02:37.809Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "2d23f2fb-1013-409a-ad49-e7905e4ae3f0",
+    "name": "Men's Grooming",
+    "slug": "mens-grooming",
+    "description": "The sleek and everlasting Hat comes with mint green LED lighting for smart functionality",
+    "priority": 90,
+    "image": "https://loremflickr.com/3234/3776/men's grooming?lock=6715636787588086",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-07-11T08:53:43.551Z",
+    "updatedAt": "2025-05-22T13:04:37.082Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": true,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "77b9040a-5649-432b-b155-681a57aff3e7",
+    "name": "Dairy Products",
+    "slug": "dairy-products",
+    "description": "Featuring Tin-enhanced technology, our Ball offers unparalleled glossy performance",
+    "priority": 90,
+    "image": "https://loremflickr.com/44/2037/dairy products?lock=4367901595710282",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2025-02-18T01:56:31.154Z",
+    "updatedAt": "2025-05-21T22:10:58.537Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "6d768f85-d1da-4bb2-bc42-00898c387aba",
+    "name": "E-books",
+    "slug": "e-books",
+    "description": "New Soap model with 13 GB RAM, 17 GB storage, and musty features",
+    "priority": 90,
+    "image": "https://loremflickr.com/3082/2498/e-books?lock=1867528220307430",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2025-03-30T06:46:00.639Z",
+    "updatedAt": "2025-05-21T20:42:17.244Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "8fa4b727-724f-4d50-bca4-1bef66b9c9be",
+    "name": "Upcycled Products",
+    "slug": "upcycled-products",
+    "description": "Stylish Bacon designed to make you stand out with difficult looks",
+    "priority": 90,
+    "image": "https://loremflickr.com/3639/533/upcycled products?lock=6881082936675440",
+    "parentId": "430b75cd-35a9-40a3-abb1-e7453af7c0f0",
+    "isFeatured": false,
+    "createdAt": "2024-08-02T21:06:43.947Z",
+    "updatedAt": "2025-05-22T05:49:29.368Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "bcbdd005-a5de-4e69-81c2-50d57dd46269",
+    "name": "Gym Wear",
+    "slug": "gym-wear",
+    "description": "The sky blue Car combines Democratic People's Republic of Korea aesthetics with Hassium-based durability",
+    "priority": 93,
+    "image": "https://loremflickr.com/2701/1666/gym wear?lock=1724283388483183",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-10-07T07:01:25.193Z",
+    "updatedAt": "2025-05-22T13:07:11.922Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "1f47a99d-44f7-4cd7-af0d-3c40bb563131",
+    "name": "Therapy Equipment",
+    "slug": "therapy-equipment",
+    "description": "New magenta Chips with ergonomic design for chubby comfort",
+    "priority": 93,
+    "image": "https://loremflickr.com/935/3344/therapy equipment?lock=1781192196849213",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-08-14T11:25:17.625Z",
+    "updatedAt": "2025-05-21T18:23:55.376Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "75af70af-7504-44f6-9b43-a9568bb482f3",
+    "name": "Cloud Storage",
+    "slug": "cloud-storage",
+    "description": "Discover the sea lion-like agility of our Salad, perfect for scientific users",
+    "priority": 93,
+    "image": "https://loremflickr.com/2776/1870/cloud storage?lock=6170727587434729",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-09-12T23:12:07.483Z",
+    "updatedAt": "2025-05-22T06:38:13.787Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "da9113b8-e7b3-4f38-8900-63a2f7ec244b",
+    "name": "Gourmet Products",
+    "slug": "gourmet-products",
+    "description": "Experience the plum brilliance of our Tuna, perfect for blond environments",
+    "priority": 93,
+    "image": "https://loremflickr.com/1014/3424/gourmet products?lock=220090271538475",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-04-29T22:43:31.296Z",
+    "updatedAt": "2025-05-22T05:27:25.577Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "1d495fe0-32f0-469e-bbed-fd5539c07047",
+    "name": "Personal Care",
+    "slug": "personal-care",
+    "description": "Our kangaroo-friendly Shirt ensures greedy comfort for your pets",
+    "priority": 94,
+    "image": "https://loremflickr.com/322/2727/personal care?lock=5512057003104202",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": false,
+    "createdAt": "2024-10-06T03:27:31.630Z",
+    "updatedAt": "2025-05-22T01:46:24.793Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e2895f18-7f7b-4d45-9a33-c13bd549b0c6",
+    "name": "Kids' Furniture",
+    "slug": "kids-furniture",
+    "description": "Kuhn, Keeling and Senger's most advanced Salad technology increases natural capabilities",
+    "priority": 94,
+    "image": "https://loremflickr.com/3203/3926/kids' furniture?lock=1931887417693362",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": true,
+    "createdAt": "2024-09-23T07:18:59.118Z",
+    "updatedAt": "2025-05-22T03:18:43.186Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "5bb3ddaf-97f3-4cd4-a985-9f94715e3b64",
+    "name": "Water Sports",
+    "slug": "water-sports",
+    "description": "Our zesty-inspired Bike brings a taste of luxury to your insidious lifestyle",
+    "priority": 94,
+    "image": "https://loremflickr.com/3756/319/water sports?lock=974952918462385",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": false,
+    "createdAt": "2024-11-09T20:13:02.405Z",
+    "updatedAt": "2025-05-22T02:27:51.670Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "583f6da9-614d-4089-9c02-71ce54ceaceb",
+    "name": "Industrial Supplies",
+    "slug": "industrial-supplies",
+    "description": "Our spicy-inspired Table brings a taste of luxury to your friendly lifestyle",
+    "priority": 94,
+    "image": "https://loremflickr.com/135/2081/industrial supplies?lock=5862865585061132",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": true,
+    "createdAt": "2024-12-23T20:10:23.557Z",
+    "updatedAt": "2025-05-21T22:45:48.176Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "5fa1e8b9-a19c-48e7-847d-fff41be35b75",
+    "name": "E-books",
+    "slug": "e-books",
+    "description": "Stylish Hat designed to make you stand out with tiny looks",
+    "priority": 94,
+    "image": "https://loremflickr.com/2693/1871/e-books?lock=8625714394684698",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2024-11-27T03:56:38.826Z",
+    "updatedAt": "2025-05-22T01:54:16.474Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fa513248-260d-4bbd-90fc-121696f6eb78",
+    "name": "Underwear",
+    "slug": "underwear",
+    "description": "Featuring Tennessine-enhanced technology, our Keyboard offers unparalleled wordy performance",
+    "priority": 95,
+    "image": "https://loremflickr.com/201/3482/underwear?lock=3248609467070302",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-09-25T13:42:37.104Z",
+    "updatedAt": "2025-05-21T15:12:20.546Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "ef28b788-a1e5-4a78-a700-d4cdf86f0395",
+    "name": "Sleepwear",
+    "slug": "sleepwear",
+    "description": "Discover the fish-like agility of our Bacon, perfect for rural users",
+    "priority": 95,
+    "image": "https://loremflickr.com/528/3960/sleepwear?lock=7605001263602705",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-01-28T13:41:56.737Z",
+    "updatedAt": "2025-05-21T21:00:40.001Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "d4839f76-be60-41b7-90c9-f8f6a2ed9eb3",
+    "name": "Photography",
+    "slug": "photography",
+    "description": "The Melyssa Chair is the latest in a series of internal products from Dare LLC",
+    "priority": 95,
+    "image": "https://loremflickr.com/1999/2973/photography?lock=4065787711353110",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": true,
+    "createdAt": "2024-09-16T16:26:26.845Z",
+    "updatedAt": "2025-05-22T11:42:04.430Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9fcdab16-d204-4bb1-b3fd-fe8562cdc124",
+    "name": "Bags & Luggage",
+    "slug": "bags--luggage",
+    "description": "O'Connell LLC's most advanced Car technology increases bare capabilities",
+    "priority": 96,
+    "image": "https://loremflickr.com/2813/3525/bags & luggage?lock=6961458596579988",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2024-05-23T12:28:10.163Z",
+    "updatedAt": "2025-05-21T20:54:20.048Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6f7631a1-29b7-4fdb-8b73-b767b01fc9d8",
+    "name": "Washing Machines",
+    "slug": "washing-machines",
+    "description": "Stylish Gloves designed to make you stand out with grandiose looks",
+    "priority": 96,
+    "image": "https://loremflickr.com/1433/1832/washing machines?lock=1578353550393170",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2024-06-14T09:21:00.394Z",
+    "updatedAt": "2025-05-22T04:29:00.466Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "e1c52376-5a3d-4566-bf4a-1ba7fb581794",
+    "name": "Calendars & Planners",
+    "slug": "calendars--planners",
+    "description": "New Keyboard model with 27 GB RAM, 467 GB storage, and international features",
+    "priority": 96,
+    "image": "https://loremflickr.com/2897/3743/calendars & planners?lock=791104406657508",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-06-20T07:12:56.448Z",
+    "updatedAt": "2025-05-21T15:41:29.498Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "9a3fb1d0-7df3-4671-b9e9-0e02c8287ba7",
+    "name": "Spiritual Products",
+    "slug": "spiritual-products",
+    "description": "Discover the panda-like agility of our Chips, perfect for dutiful users",
+    "priority": 96,
+    "image": "https://loremflickr.com/3524/1984/spiritual products?lock=4575203440202009",
+    "parentId": "6668c1e2-93a0-4738-bb88-8f876869533d",
+    "isFeatured": true,
+    "createdAt": "2025-05-08T11:08:39.618Z",
+    "updatedAt": "2025-05-22T00:29:03.716Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "852d9d6d-08fa-41ba-b1ef-3d840075a2af",
+    "name": "Aromatherapy",
+    "slug": "aromatherapy",
+    "description": "Innovative Chair featuring well-groomed technology and Steel construction",
+    "priority": 96,
+    "image": "https://loremflickr.com/1344/767/aromatherapy?lock=6709956740575912",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-06-27T18:22:49.592Z",
+    "updatedAt": "2025-05-22T09:15:22.504Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "46d039fb-5323-44cf-8174-4c8783640f82",
+    "name": "Kitchen Appliances",
+    "slug": "kitchen-appliances",
+    "description": "Our tangy-inspired Cheese brings a taste of luxury to your trusting lifestyle",
+    "priority": 97,
+    "image": "https://loremflickr.com/1959/1964/kitchen appliances?lock=671939434875373",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-07-20T02:57:41.094Z",
+    "updatedAt": "2025-05-21T15:19:57.300Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "a49bd912-cc27-443e-b0fc-a3dca9bd12d2",
+    "name": "Notebooks",
+    "slug": "notebooks",
+    "description": "Professional-grade Chair perfect for insistent training and recreational use",
+    "priority": 97,
+    "image": "https://loremflickr.com/1180/2415/notebooks?lock=2398252867974904",
+    "parentId": "9cbf4f7a-b56f-4021-b54b-7867063de291",
+    "isFeatured": false,
+    "createdAt": "2024-12-21T20:50:35.246Z",
+    "updatedAt": "2025-05-22T11:28:40.416Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "6869d831-fdde-4884-87e6-93a316d6f5dc",
+    "name": "Car Accessories",
+    "slug": "car-accessories",
+    "description": "Our bat-friendly Pizza ensures bleak comfort for your pets",
+    "priority": 97,
+    "image": "https://loremflickr.com/253/1535/car accessories?lock=6297383386094808",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2025-01-07T15:24:05.922Z",
+    "updatedAt": "2025-05-21T16:41:31.246Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "c8698211-8b3d-4ddf-93d8-cec100df1c76",
+    "name": "Handmade Goods",
+    "slug": "handmade-goods",
+    "description": "Featuring Cadmium-enhanced technology, our Shoes offers unparalleled natural performance",
+    "priority": 97,
+    "image": "https://loremflickr.com/1201/657/handmade goods?lock=3286277678977569",
+    "parentId": "c8e201cd-3936-40a8-9f7f-e6467010cdfa",
+    "isFeatured": true,
+    "createdAt": "2024-09-09T20:11:50.104Z",
+    "updatedAt": "2025-05-22T03:35:14.164Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": true
+    }
+  },
+  {
+    "id": "f4e8f9a4-fde9-4ec7-a89f-f910fe339aa0",
+    "name": "Eyewear",
+    "slug": "eyewear",
+    "description": "Our bitter-inspired Bacon brings a taste of luxury to your busy lifestyle",
+    "priority": 99,
+    "image": "https://loremflickr.com/2393/3678/eyewear?lock=6192635964274093",
+    "parentId": "25824acc-35b3-423d-bb19-3bc8347b03d3",
+    "isFeatured": false,
+    "createdAt": "2024-12-15T09:47:14.015Z",
+    "updatedAt": "2025-05-21T21:36:09.467Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fe356f43-387c-4ff8-bb94-f0a8fdcaec35",
+    "name": "Formal Wear",
+    "slug": "formal-wear",
+    "description": "Ergonomic Table made with Plastic for all-day grubby support",
+    "priority": 99,
+    "image": "https://loremflickr.com/3546/3290/formal wear?lock=1479059260000443",
+    "parentId": "999d6135-2e47-4f7d-bdbc-27ef73358206",
+    "isFeatured": false,
+    "createdAt": "2025-04-02T07:56:47.220Z",
+    "updatedAt": "2025-05-21T16:46:25.296Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "fb7cf0e0-e090-408e-b274-659cd6165d03",
+    "name": "Art Supplies",
+    "slug": "art-supplies",
+    "description": "Innovative Shoes featuring every technology and Steel construction",
+    "priority": 99,
+    "image": "https://loremflickr.com/2075/1751/art supplies?lock=602218668003059",
+    "parentId": "14324bfd-9d48-487d-80fd-90cb6ec0d322",
+    "isFeatured": false,
+    "createdAt": "2024-12-04T13:29:03.202Z",
+    "updatedAt": "2025-05-22T00:29:23.012Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "83255a1b-ea77-4409-914c-0b909d973b75",
+    "name": "Board Games",
+    "slug": "board-games",
+    "description": "The sky blue Pants combines Costa Rica aesthetics with Americium-based durability",
+    "priority": 99,
+    "image": "https://loremflickr.com/1726/3609/board games?lock=1874890839534249",
+    "parentId": null,
+    "isFeatured": true,
+    "createdAt": "2025-01-01T15:13:17.465Z",
+    "updatedAt": "2025-05-21T15:43:02.334Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "843f6425-65c5-4460-95b7-7fa307e5e62d",
+    "name": "Microwaves",
+    "slug": "microwaves",
+    "description": "Ergonomic Chair made with Concrete for all-day giving support",
+    "priority": 100,
+    "image": "https://loremflickr.com/963/660/microwaves?lock=6398342316872977",
+    "parentId": "e31aeb78-4e59-4a9d-bc54-5646a6f3d2e8",
+    "isFeatured": false,
+    "createdAt": "2024-07-18T06:23:19.792Z",
+    "updatedAt": "2025-05-21T21:28:23.032Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": true,
+      "trending": true,
+      "newArrival": false
+    }
+  },
+  {
+    "id": "9e530bcf-9216-4226-9d43-218dd967e56a",
+    "name": "Festive Decor",
+    "slug": "festive-decor",
+    "description": "Ergonomic Fish made with Aluminum for all-day alienated support",
+    "priority": 100,
+    "image": "https://loremflickr.com/922/1752/festive decor?lock=4486277179268447",
+    "parentId": null,
+    "isFeatured": false,
+    "createdAt": "2025-03-25T10:53:46.470Z",
+    "updatedAt": "2025-05-21T17:00:03.542Z",
+    "metadata": {
+      "seasonal": false,
+      "discountEligible": false,
+      "trending": false,
+      "newArrival": false
+    }
+  }
+]

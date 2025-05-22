@@ -1,0 +1,33 @@
+export const stores = [
+  {
+    id: "1",
+    name: "New York Flagship Store",
+    address: "123 Commerce Street",
+    city: "New York",
+    state: "NY",
+    postalCode: "10001",
+    country: "United States",
+    phone: "+1 (555) 123-4567",
+    email: "ny@example.com",
+    openingHours: "Mon-Sat: 9am-9pm, Sun: 10am-6pm",
+    latitude: 40.7128,
+    longitude: -74.006,
+    image: "/stores/ny.jpg",
+  },
+  {
+    id: "2",
+    name: "Los Angeles Store",
+    address: "456 Sunset Boulevard",
+    city: "Los Angeles",
+    state: "CA",
+    postalCode: "90028",
+    country: "United States",
+    phone: "+1 (555) 987-6543",
+    email: "la@example.com",
+    openingHours: "Mon-Sat: 10am-8pm, Sun: 11am-6pm",
+    latitude: 34.0522,
+    longitude: -118.2437,
+    image: "/stores/la.jpg",
+  },
+  // Add more stores as needed
+];
