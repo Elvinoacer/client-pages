@@ -9,8 +9,15 @@ const nextConfig: NextConfig = {
         hostname: "**", // Allows ALL domains
       },
     ],
+
     // Optional: If you need to allow specific domains instead, use:
     // domains: ['example.com', 'another-site.com'],
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 

@@ -1,7 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
+import { Facebook, Instagram, Linkedin } from "lucide-react";
+
+import { FaXTwitter } from "react-icons/fa6";
 import Link from "next/link";
 import ThemeToggle from "./ThemeToggle";
 
@@ -14,6 +16,7 @@ const Footer = () => {
         { name: "New Arrivals", href: "/new-arrivals" },
         { name: "Best Sellers", href: "/best-sellers" },
         { name: "Deals", href: "/deals" },
+        { name: "Categories", href: "/categories" },
       ],
     },
     {
@@ -39,23 +42,21 @@ const Footer = () => {
       links: [
         { name: "My Account", href: "/account" },
         { name: "Orders", href: "/orders" },
-        { name: "Wishlist", href: "/wishlist" },
+        { name: "Wishlist", href: "/account/wishlist" },
         { name: "Track Order", href: "/track-order" },
       ],
     },
   ];
 
   const socialLinks = [
-    { icon: <Facebook className="h-5 w-5" />, href: "#" },
-    { icon: <Twitter className="h-5 w-5" />, href: "#" },
-    { icon: <Instagram className="h-5 w-5" />, href: "#" },
-    { icon: <Linkedin className="h-5 w-5" />, href: "#" },
+    { icon: <Facebook className="h-5 w-5" />, href: "https://www.facebook.com/profile.php?id=100092661322616" },
+    { icon: <FaXTwitter className="h-5 w-5" />, href: "https://x.com/Elvinoace" },
+    { icon: <Instagram className="h-5 w-5" />, href: "https://www.instagram.com/" },
+    { icon: <Linkedin className="h-5 w-5" />, href: "https://ke.linkedin.com/" },
   ];
 
   return (
-    <footer
-      className={`mt-auto   dark:bg-gray-900 dark:text-gray-300 bg-gray-100 text-gray-700  `}
-    >
+    <footer className={`mt-auto   dark:bg-gray-900 dark:text-gray-300 bg-gray-100 text-gray-700  `}>
       <div className="h-1 bg-gradient-to-r from-purple-600 via-blue-500 to-teal-400"></div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -68,18 +69,10 @@ const Footer = () => {
               transition={{ delay: index * 0.1 }}
               className="space-y-4"
             >
-              <h3
-                className={`text-lg font-semibold dark:text-white text-gray-900`}
-              >
-                {section.title}
-              </h3>
+              <h3 className={`text-lg font-semibold dark:text-white text-gray-900`}>{section.title}</h3>
               <ul className="space-y-2">
                 {section.links.map((link) => (
-                  <motion.li
-                    key={link.name}
-                    whileHover={{ x: 5 }}
-                    transition={{ type: "spring", stiffness: 300 }}
-                  >
+                  <motion.li key={link.name} whileHover={{ x: 5 }} transition={{ type: "spring", stiffness: 300 }}>
                     <Link
                       href={link.href}
                       className={`hover:underline dark:text-gray-400 dark:hover:text-white text-gray-600 hover:text-gray-900 `}
@@ -121,9 +114,7 @@ const Footer = () => {
             className="flex items-center space-x-4"
           >
             <ThemeToggle />
-            <p className="text-sm">
-              © {new Date().getFullYear()} ShopEase. All rights reserved.
-            </p>
+            <p className="text-sm">© {new Date().getFullYear()} ShopEase. All rights reserved.</p>
           </motion.div>
         </div>
       </div>

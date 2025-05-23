@@ -8,7 +8,7 @@ import { CategoryCombobox } from "./categoriesSearch";
 
 const CATEGORY_PER_PAGE = 8;
 
-export default function CategoryGrid() {
+export default function CategoryGrid({ hidePagination }: { hidePagination?: boolean }) {
   const searchParams = useSearchParams();
   const router = useRouter();
   const pathname = usePathname();
@@ -20,10 +20,7 @@ export default function CategoryGrid() {
   const totalPages = Math.ceil(categories.length / CATEGORY_PER_PAGE);
 
   // Get posts for current page
-  const paginatedCategories = categories.slice(
-    (currentPage - 1) * CATEGORY_PER_PAGE,
-    currentPage * CATEGORY_PER_PAGE
-  );
+  const paginatedCategories = categories.slice((currentPage - 1) * CATEGORY_PER_PAGE, currentPage * CATEGORY_PER_PAGE);
 
   // Handle page change
   const handlePageChange = (newPage: number) => {
@@ -43,12 +40,8 @@ export default function CategoryGrid() {
     <div className="space-y-6 p-6">
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
-          <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
-            Shop by Category
-          </h2>
-          <p className="mt-1 text-gray-600 dark:text-gray-400">
-            Browse our wide range of products
-          </p>
+          <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Shop by Category</h2>
+          <p className="mt-1 text-gray-600 dark:text-gray-400">Browse our wide range of products</p>
         </div>
 
         {searchParams.get("page") && (
@@ -59,10 +52,20 @@ export default function CategoryGrid() {
             &larr; Start
           </Link>
         )}
+        {hidePagination && (
+          <Link
+            href="/categories"
+            className="text-sm font-medium text-primary-600 hover:text-primary-800 dark:text-primary-400 dark:hover:text-primary-300 transition-colors"
+          >
+            View all categories&rarr;
+          </Link>
+        )}
       </div>
-      <div className="container mx-auto p-4 flex justify-center">
-        <CategoryCombobox categories={categories} />
-      </div>
+      {!hidePagination && (
+        <div className="container mx-auto p-4 flex justify-center">
+          <CategoryCombobox categories={categories} />
+        </div>
+      )}
 
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
         {paginatedCategories.map((category) => (
@@ -85,9 +88,7 @@ export default function CategoryGrid() {
               <h3 className="text-lg font-medium text-white">
                 {category.name}
                 {category.priority && (
-                  <span className="text-sm font-normal opacity-80 ml-1">
-                    ({category.priority})
-                  </span>
+                  <span className="text-sm font-normal opacity-80 ml-1">({category.priority})</span>
                 )}
               </h3>
             </div>
@@ -95,7 +96,7 @@ export default function CategoryGrid() {
         ))}
       </div>
 
-      {totalPages > 1 && (
+      {!hidePagination && totalPages > 1 && (
         <div className="mt-8 flex justify-center mb-3">
           <Pagination
             currentPage={currentPage}

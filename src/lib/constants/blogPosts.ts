@@ -380,73 +380,12 @@ export const blogPosts = [
     id: "2",
     title: "Sustainable Packaging Solutions",
     slug: "sustainable-packaging",
-    excerpt:
-      "How we reduced our environmental impact with innovative packaging.",
+    excerpt: "How we reduced our environmental impact with innovative packaging.",
     content: blog2content,
     author: "John Smith",
     publishedAt: "April 28, 2023",
-    image:
-      "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
+    image: "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
   },
-  {
-    id: "3",
-    title: "Sustainable Packaging Solutions",
-    slug: "sustainable-packaging",
-    excerpt:
-      "How we reduced our environmental impact with innovative packaging.",
-    content: blog2content,
-    author: "John Smith",
-    publishedAt: "April 28, 2023",
-    image:
-      "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
-  },
-  {
-    id: "4",
-    title: "Sustainable Packaging Solutions",
-    slug: "sustainable-packaging",
-    excerpt:
-      "How we reduced our environmental impact with innovative packaging.",
-    content: blog2content,
-    author: "John Smith",
-    publishedAt: "April 28, 2023",
-    image:
-      "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
-  },
-  {
-    id: "5",
-    title: "Sustainable Packaging Solutions",
-    slug: "sustainable-packaging",
-    excerpt:
-      "How we reduced our environmental impact with innovative packaging.",
-    content: blog2content,
-    author: "John Smith",
-    publishedAt: "April 28, 2023",
-    image:
-      "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
-  },
-  {
-    id: "6",
-    title: "Sustainable Packaging Solutions",
-    slug: "sustainable-packaging",
-    excerpt:
-      "How we reduced our environmental impact with innovative packaging.",
-    content: blog2content,
-    author: "John Smith",
-    publishedAt: "April 28, 2023",
-    image:
-      "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
-  },
-  {
-    id: "7",
-    title: "Sustainable Packaging Solutions",
-    slug: "sustainable-packaging",
-    excerpt:
-      "How we reduced our environmental impact with innovative packaging.",
-    content: blog2content,
-    author: "John Smith",
-    publishedAt: "April 28, 2023",
-    image:
-      "https://stockarea.io/blogs/wp-content/uploads/2024/06/E-commerce-Packaging-Guide.png",
-  },
+
   // Add more blog posts as needed
 ];

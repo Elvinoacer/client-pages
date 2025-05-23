@@ -30,6 +30,7 @@ export default function Home() {
         className="container px-4 mx-auto"
       >
         <ProductShowcase
+          hidePagination
           title="Best Deals"
           subtitle="Limited-time offers you don't want to miss"
           products={bestDeals}
@@ -47,6 +48,7 @@ export default function Home() {
         className="container px-4 mx-auto"
       >
         <ProductShowcase
+          hidePagination
           title="New Arrivals"
           subtitle="Discover our latest products"
           products={newArrivals}
@@ -63,7 +65,7 @@ export default function Home() {
         transition={{ duration: 0.5, delay: 0.2 }}
         className="container px-4 mx-auto"
       >
-        <CategoryGrid />
+        <CategoryGrid hidePagination />
       </motion.section>
 
       {/* Best Sellers Section */}
@@ -75,6 +77,7 @@ export default function Home() {
         className="container px-4 mx-auto"
       >
         <ProductShowcase
+          hidePagination
           title="Best Sellers"
           subtitle="Our most popular products"
           products={bestSellers}
